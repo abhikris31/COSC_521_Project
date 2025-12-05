@@ -1,7 +1,17 @@
 library(readxl)
+library(writexl)
+
+# --- Define the base data directory (must exist in your GitHub repo root) ---
+data_dir <- "data" 
+# Assuming structure: your-repo-root/data/bipartite-dataframes/...
+
+
 
 # Read the file
-df <- read_excel("/kaggle/input/policy-data/JLOP_2025.xlsx")
+#df <- read_excel("/kaggle/input/policy-data/JLOP_2025.xlsx")
+df <- read_excel(file.path(data_dir, 
+                                 "policy-data", 
+                                 "JLOP_2025.xlsx"))
 
 # Preview
 #head(df)
@@ -10,10 +20,15 @@ df <- read_excel("/kaggle/input/policy-data/JLOP_2025.xlsx")
 
 #Preparing product complexity and economic complexity files
 
-df_prod <- read.csv("/kaggle/input/complexity-files/complexity_pci_a_hs07_hs6.csv")
+#df_prod <- read.csv("/kaggle/input/complexity-files/complexity_pci_a_hs07_hs6.csv")
+df_prod <- read.csv(file.path(data_dir, 
+                                 "complexity-files", 
+                                 "complexity_pci_a_hs07_hs6.csv"))
 
 df_ctry <- read.csv("/kaggle/input/complexity-files/complexity_eci_a_hs07_hs6.csv")
-
+df_ctry <- read.csv(file.path(data_dir, 
+                                 "complexity-files", 
+                                 "complexity_eci_a_hs07_hs6.csv"))
 
 years <- 2010:2022
 
@@ -53,11 +68,16 @@ df_eci$eci <- (df_eci$eci - min(df_eci$eci)) / (max(df_eci$eci) - min(df_eci$eci
 #head(df_eci)
 #head(df_pci)
 
+write_xlsx(df_eci, "/kaggle/working/df_eci.xlsx")
+write_xlsx(df_pci, "/kaggle/working/df_pci.xlsx")
+
 library(readxl)
 
 # Read the file (Countries_list created manually by removing the combined countries)
-countries_list <- read_excel("/kaggle/input/countries/Countries.xlsx")
-
+#countries_list <- read_excel("/kaggle/input/countries/Countries.xlsx")
+countries_list <- read_excel(file.path(data_dir, 
+                                 "countries", 
+                                 "Countries.xlsx"))
 
 #Checking country column for missing countries
 
