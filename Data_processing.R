@@ -191,3 +191,60 @@ df_IP_unique <- df_IP %>%
 
 df_nonIP_unique <- df_nonIP %>%
     distinct(CountryImposing_cleaned, prod_code_4, MeasureType, .keep_all = TRUE)
+
+
+#Creating separate dataframes for IP dataset
+#Country-Policy
+df_IP_unique_cp <- df_IP %>%
+    select(CountryImposing_cleaned, MeasureType) %>%
+    rename(country = CountryImposing_cleaned,
+          policy = MeasureType) %>%
+    distinct(country,policy)
+
+write_xlsx(df_IP_unique_cp, "/kaggle/working/Industrial Policy data_Country_Policy.xlsx")
+
+#Policy-Product
+df_IP_unique_ppr <- df_IP %>%
+    select(MeasureType,prod_code_4) %>%
+    rename(policy = MeasureType,
+          product = prod_code_4) %>%
+    distinct(policy,product)
+
+write_xlsx(df_IP_unique_ppr, "/kaggle/working/Industrial Policy data_Policy_Product.xlsx")
+
+#Country-Product
+df_IP_unique_cpr <- df_IP %>%
+    select(CountryImposing_cleaned, prod_code_4) %>%
+    rename(country = CountryImposing_cleaned,
+          product = prod_code_4) %>%
+    distinct(country,product)
+
+write_xlsx(df_IP_unique_cpr, "/kaggle/working/Industrial Policy data_Country_Product.xlsx")
+
+#Creating separate dataframes for non IP dataset
+#Country-Policy
+df_nonIP_unique_cp <- df_nonIP %>%
+    select(CountryImposing_cleaned, MeasureType) %>%
+    rename(country = CountryImposing_cleaned,
+          policy = MeasureType) %>%
+    distinct(country,policy)
+
+write_xlsx(df_nonIP_unique_cp, "/kaggle/working/Non Industrial Policy data_Country_Policy.xlsx")
+
+#Policy-Product
+df_nonIP_unique_ppr <- df_nonIP %>%
+    select(MeasureType,prod_code_4) %>%
+    rename(policy = MeasureType,
+          product = prod_code_4) %>%
+    distinct(policy,product)
+
+write_xlsx(df_nonIP_unique_ppr, "/kaggle/working/Non Industrial Policy data_Policy_Product.xlsx")
+
+#Country-Product
+df_nonIP_unique_cpr <- df_nonIP %>%
+    select(CountryImposing_cleaned, prod_code_4) %>%
+    rename(country = CountryImposing_cleaned,
+          product = prod_code_4) %>%
+    distinct(country,product)
+
+write_xlsx(df_nonIP_unique_cpr, "/kaggle/working/Non Industrial Policy data_Country_Product.xlsx")
