@@ -1,0 +1,2058 @@
+"year","country_id","country_name","continent_id","continent_name","eci_rank","eci"
+2008,"ago","Angola","af","Africa",117,-1.8491789945
+2008,"bwa","Botswana","af","Africa",94,-0.6594770512
+2008,"civ","Cote d'Ivoire","af","Africa",102,-0.8803470133
+2008,"cmr","Cameroon","af","Africa",113,-1.5417860628
+2008,"cod","Democratic Republic of the Congo","af","Africa",109,-1.2925570203
+2008,"cog","Republic of the Congo","af","Africa",116,-1.7793786082
+2008,"dza","Algeria","af","Africa",91,-0.6087777818
+2008,"egy","Egypt","af","Africa",64,-0.0665036388
+2008,"eth","Ethiopia","af","Africa",97,-0.7129841552
+2008,"gab","Gabon","af","Africa",121,-2.6283114463
+2008,"gha","Ghana","af","Africa",103,-1.0268815524
+2008,"ken","Kenya","af","Africa",72,-0.1935992591
+2008,"lby","Libya","af","Africa",83,-0.3735385005
+2008,"mar","Morocco","af","Africa",96,-0.6947720746
+2008,"mdg","Madagascar","af","Africa",104,-1.0360451979
+2008,"mli","Mali","af","Africa",81,-0.3456761786
+2008,"moz","Mozambique","af","Africa",110,-1.3730007158
+2008,"mrt","Mauritania","af","Africa",112,-1.4948103571
+2008,"nam","Namibia","af","Africa",71,-0.1527789194
+2008,"nga","Nigeria","af","Africa",122,-2.6745962808
+2008,"sdn","Sudan","af","Africa",114,-1.6058013187
+2008,"sen","Senegal","af","Africa",63,-0.0538473875
+2008,"tcd","Chad","af","Africa",120,-2.3122357457
+2008,"tun","Tunisia","af","Africa",70,-0.1500553855
+2008,"tza","Tanzania","af","Africa",89,-0.5282458866
+2008,"uga","Uganda","af","Africa",85,-0.3817967172
+2008,"zaf","South Africa","af","Africa",38,0.5649120146
+2008,"zmb","Zambia","af","Africa",90,-0.5402028817
+2008,"zwe","Zimbabwe","af","Africa",84,-0.3777629736
+2008,"are","United Arab Emirates","as","Asia",67,-0.109059178
+2008,"aze","Azerbaijan","as","Asia",68,-0.1151857515
+2008,"bgd","Bangladesh","as","Asia",106,-1.1635229297
+2008,"chn","China","as","Asia",39,0.5487178407
+2008,"geo","Georgia","as","Asia",59,0.0312422719
+2008,"hkg","Hong Kong","as","Asia",47,0.3848209002
+2008,"idn","Indonesia","as","Asia",78,-0.2819534376
+2008,"ind","India","as","Asia",51,0.3036456436
+2008,"irn","Iran","as","Asia",74,-0.2414123711
+2008,"irq","Iraq","as","Asia",118,-1.9839069708
+2008,"isr","Israel","as","Asia",22,1.1125749777
+2008,"jor","Jordan","as","Asia",58,0.0342557143
+2008,"jpn","Japan","as","Asia",1,1.8171870521
+2008,"kaz","Kazakhstan","as","Asia",66,-0.0950122831
+2008,"khm","Cambodia","as","Asia",111,-1.4393816376
+2008,"kor","South Korea","as","Asia",13,1.3061438916
+2008,"kwt","Kuwait","as","Asia",65,-0.090958907
+2008,"lbn","Lebanon","as","Asia",42,0.4541303206
+2008,"lka","Sri Lanka","as","Asia",98,-0.7252426117
+2008,"mmr","Burma","as","Asia",115,-1.6840056282
+2008,"mng","Mongolia","as","Asia",105,-1.1507385214
+2008,"mys","Malaysia","as","Asia",35,0.6407069247
+2008,"omn","Oman","as","Asia",73,-0.2051955074
+2008,"pak","Pakistan","as","Asia",95,-0.6686319654
+2008,"phl","Philippines","as","Asia",62,-0.0029769687
+2008,"prk","North Korea","as","Asia",32,0.6666476461
+2008,"qat","Qatar","as","Asia",60,0.0305562147
+2008,"sau","Saudi Arabia","as","Asia",49,0.333654822
+2008,"sgp","Singapore","as","Asia",9,1.39023657
+2008,"syr","Syria","as","Asia",77,-0.2750936327
+2008,"tha","Thailand","as","Asia",46,0.4141973303
+2008,"tkm","Turkmenistan","as","Asia",107,-1.2215543447
+2008,"tur","Turkey","as","Asia",50,0.3258957651
+2008,"twn","Chinese Taipei","as","Asia",12,1.3512699682
+2008,"uzb","Uzbekistan","as","Asia",87,-0.4535647018
+2008,"vnm","Vietnam","as","Asia",86,-0.4083320274
+2008,"yem","Yemen","as","Asia",108,-1.2477466948
+2008,"aut","Austria","eu","Europe",8,1.4395426231
+2008,"bel","Belgium","eu","Europe",14,1.2722145392
+2008,"bgr","Bulgaria","eu","Europe",43,0.4377404831
+2008,"bih","Bosnia and Herzegovina","eu","Europe",45,0.4196298906
+2008,"blr","Belarus","eu","Europe",29,0.8526782432
+2008,"che","Switzerland","eu","Europe",4,1.5894512403
+2008,"cze","Czechia","eu","Europe",10,1.3867225445
+2008,"deu","Germany","eu","Europe",2,1.6781562832
+2008,"dnk","Denmark","eu","Europe",21,1.1284914908
+2008,"esp","Spain","eu","Europe",26,0.9400081287
+2008,"fin","Finland","eu","Europe",5,1.5693887063
+2008,"fra","France","eu","Europe",11,1.3638739884
+2008,"gbr","United Kingdom","eu","Europe",6,1.4777243288
+2008,"grc","Greece","eu","Europe",48,0.3607081302
+2008,"hrv","Croatia","eu","Europe",31,0.7099435587
+2008,"hun","Hungary","eu","Europe",17,1.1901736003
+2008,"irl","Ireland","eu","Europe",15,1.248440436
+2008,"ita","Italy","eu","Europe",18,1.1712750015
+2008,"ltu","Lithuania","eu","Europe",40,0.503513521
+2008,"mda","Moldova","eu","Europe",75,-0.2544439333
+2008,"nld","Netherlands","eu","Europe",19,1.1707026841
+2008,"nor","Norway","eu","Europe",23,1.0461939346
+2008,"pol","Poland","eu","Europe",24,0.9832153117
+2008,"prt","Portugal","eu","Europe",44,0.4367860694
+2008,"rou","Romania","eu","Europe",37,0.5875365074
+2008,"rus","Russia","eu","Europe",28,0.8771463224
+2008,"srb","Serbia","eu","Europe",34,0.6474491728
+2008,"svk","Slovakia","eu","Europe",20,1.1615566272
+2008,"svn","Slovenia","eu","Europe",16,1.2360617302
+2008,"swe","Sweden","eu","Europe",3,1.6171559346
+2008,"ukr","Ukraine","eu","Europe",30,0.7892062874
+2008,"can","Canada","na","North America",25,0.9427115057
+2008,"cri","Costa Rica","na","North America",54,0.1160713799
+2008,"cub","Cuba","na","North America",76,-0.2713074869
+2008,"dom","Dominican Republic","na","North America",69,-0.1473689915
+2008,"gtm","Guatemala","na","North America",79,-0.3126915658
+2008,"hnd","Honduras","na","North America",99,-0.7753328131
+2008,"jam","Jamaica","na","North America",82,-0.3555975492
+2008,"mex","Mexico","na","North America",27,0.8971838205
+2008,"nic","Nicaragua","na","North America",101,-0.8787006604
+2008,"pan","Panama","na","North America",56,0.0496131914
+2008,"slv","El Salvador","na","North America",80,-0.3165586863
+2008,"usa","United States","na","North America",7,1.4507847869
+2008,"aus","Australia","oc","Oceania",52,0.2875892853
+2008,"nzl","New Zealand","oc","Oceania",36,0.6234920817
+2008,"png","Papua New Guinea","oc","Oceania",119,-1.9975954188
+2008,"arg","Argentina","sa","South America",41,0.4757944094
+2008,"bol","Bolivia","sa","South America",92,-0.6229485873
+2008,"bra","Brazil","sa","South America",33,0.6644020591
+2008,"chl","Chile","sa","South America",57,0.0363842432
+2008,"col","Colombia","sa","South America",61,0.0274514667
+2008,"ecu","Ecuador","sa","South America",100,-0.8233700751
+2008,"per","Peru","sa","South America",93,-0.6536914269
+2008,"pry","Paraguay","sa","South America",88,-0.5166386841
+2008,"ury","Uruguay","sa","South America",53,0.1626675341
+2008,"ven","Venezuela","sa","South America",55,0.0870421027
+2009,"ago","Angola","af","Africa",112,-1.4384208549
+2009,"bwa","Botswana","af","Africa",54,0.1395631082
+2009,"civ","Cote d'Ivoire","af","Africa",104,-1.0050014026
+2009,"cmr","Cameroon","af","Africa",120,-1.9440936649
+2009,"cod","Democratic Republic of the Congo","af","Africa",114,-1.5150086782
+2009,"cog","Republic of the Congo","af","Africa",119,-1.7960594508
+2009,"dza","Algeria","af","Africa",88,-0.5699403023
+2009,"egy","Egypt","af","Africa",69,-0.2098765282
+2009,"eth","Ethiopia","af","Africa",96,-0.786774702
+2009,"gab","Gabon","af","Africa",122,-2.5915246461
+2009,"gha","Ghana","af","Africa",108,-1.2605452232
+2009,"ken","Kenya","af","Africa",75,-0.3295010458
+2009,"lby","Libya","af","Africa",80,-0.4366077721
+2009,"mar","Morocco","af","Africa",97,-0.804028979
+2009,"mdg","Madagascar","af","Africa",107,-1.2132410782
+2009,"moz","Mozambique","af","Africa",113,-1.4412412705
+2009,"mrt","Mauritania","af","Africa",109,-1.2970327585
+2009,"nam","Namibia","af","Africa",66,-0.0972023269
+2009,"nga","Nigeria","af","Africa",116,-1.6628807357
+2009,"sdn","Sudan","af","Africa",117,-1.7422978947
+2009,"sen","Senegal","af","Africa",74,-0.3049744291
+2009,"tcd","Chad","af","Africa",81,-0.4415855747
+2009,"tun","Tunisia","af","Africa",70,-0.2127476943
+2009,"tza","Tanzania","af","Africa",90,-0.5873533716
+2009,"uga","Uganda","af","Africa",82,-0.4721932342
+2009,"zaf","South Africa","af","Africa",42,0.387869747
+2009,"zmb","Zambia","af","Africa",92,-0.6172484716
+2009,"zwe","Zimbabwe","af","Africa",85,-0.5235354792
+2009,"are","United Arab Emirates","as","Asia",67,-0.1828508301
+2009,"aze","Azerbaijan","as","Asia",79,-0.426462092
+2009,"bgd","Bangladesh","as","Asia",111,-1.3679830129
+2009,"chn","China","as","Asia",38,0.5026877609
+2009,"geo","Georgia","as","Asia",61,-0.0146175223
+2009,"hkg","Hong Kong","as","Asia",46,0.3502838939
+2009,"idn","Indonesia","as","Asia",77,-0.4018983864
+2009,"ind","India","as","Asia",52,0.2190143468
+2009,"irn","Iran","as","Asia",73,-0.303856388
+2009,"irq","Iraq","as","Asia",110,-1.2992139689
+2009,"isr","Israel","as","Asia",22,1.129544323
+2009,"jor","Jordan","as","Asia",57,0.0822434184
+2009,"jpn","Japan","as","Asia",1,1.9407778214
+2009,"kaz","Kazakhstan","as","Asia",68,-0.194210352
+2009,"khm","Cambodia","as","Asia",115,-1.6625463302
+2009,"kor","South Korea","as","Asia",14,1.4114791206
+2009,"kwt","Kuwait","as","Asia",56,0.1253157006
+2009,"lbn","Lebanon","as","Asia",43,0.3813208686
+2009,"lka","Sri Lanka","as","Asia",100,-0.8803847512
+2009,"mmr","Burma","as","Asia",118,-1.7798423877
+2009,"mng","Mongolia","as","Asia",102,-0.9568688203
+2009,"mys","Malaysia","as","Asia",33,0.6365830163
+2009,"omn","Oman","as","Asia",86,-0.5506953177
+2009,"pak","Pakistan","as","Asia",95,-0.7739702268
+2009,"phl","Philippines","as","Asia",60,0.0179388902
+2009,"prk","North Korea","as","Asia",34,0.6079803401
+2009,"qat","Qatar","as","Asia",49,0.2856057866
+2009,"sau","Saudi Arabia","as","Asia",48,0.3238934904
+2009,"sgp","Singapore","as","Asia",9,1.4832504416
+2009,"syr","Syria","as","Asia",83,-0.4790251445
+2009,"tha","Thailand","as","Asia",41,0.3940672904
+2009,"tkm","Turkmenistan","as","Asia",106,-1.1566729414
+2009,"tur","Turkey","as","Asia",50,0.2776397252
+2009,"twn","Chinese Taipei","as","Asia",11,1.4454028131
+2009,"uzb","Uzbekistan","as","Asia",91,-0.6011189804
+2009,"vnm","Vietnam","as","Asia",87,-0.5682156313
+2009,"yem","Yemen","as","Asia",103,-0.9722035457
+2009,"alb","Albania","eu","Europe",53,0.2169112058
+2009,"aut","Austria","eu","Europe",8,1.5369827203
+2009,"bel","Belgium","eu","Europe",15,1.3634428019
+2009,"bgr","Bulgaria","eu","Europe",47,0.3415112223
+2009,"bih","Bosnia and Herzegovina","eu","Europe",45,0.3598684047
+2009,"blr","Belarus","eu","Europe",28,0.8548021714
+2009,"che","Switzerland","eu","Europe",3,1.7376944306
+2009,"cze","Czechia","eu","Europe",10,1.4584006221
+2009,"deu","Germany","eu","Europe",2,1.7889298169
+2009,"dnk","Denmark","eu","Europe",20,1.2123854707
+2009,"esp","Spain","eu","Europe",25,0.9561606748
+2009,"fin","Finland","eu","Europe",5,1.6682906728
+2009,"fra","France","eu","Europe",12,1.4352834595
+2009,"gbr","United Kingdom","eu","Europe",6,1.5713865117
+2009,"grc","Greece","eu","Europe",51,0.2506421326
+2009,"hrv","Croatia","eu","Europe",31,0.7001325547
+2009,"hun","Hungary","eu","Europe",17,1.2403974675
+2009,"irl","Ireland","eu","Europe",13,1.4200754683
+2009,"ita","Italy","eu","Europe",21,1.2054632821
+2009,"ltu","Lithuania","eu","Europe",39,0.4404978599
+2009,"mda","Moldova","eu","Europe",72,-0.2573599965
+2009,"nld","Netherlands","eu","Europe",19,1.2313515909
+2009,"nor","Norway","eu","Europe",23,1.0643931682
+2009,"pol","Poland","eu","Europe",24,1.0079835053
+2009,"prt","Portugal","eu","Europe",44,0.3710102319
+2009,"rou","Romania","eu","Europe",36,0.5989924432
+2009,"rus","Russia","eu","Europe",29,0.8452557194
+2009,"srb","Serbia","eu","Europe",35,0.6025224834
+2009,"svk","Slovakia","eu","Europe",18,1.2321157494
+2009,"svn","Slovenia","eu","Europe",16,1.3021604472
+2009,"swe","Sweden","eu","Europe",4,1.7064892389
+2009,"ukr","Ukraine","eu","Europe",30,0.7318387772
+2009,"can","Canada","na","North America",26,0.9406664906
+2009,"cri","Costa Rica","na","North America",63,-0.0247226309
+2009,"cub","Cuba","na","North America",89,-0.5824188075
+2009,"dom","Dominican Republic","na","North America",71,-0.2373555945
+2009,"gtm","Guatemala","na","North America",84,-0.5032413669
+2009,"hnd","Honduras","na","North America",99,-0.8285092268
+2009,"jam","Jamaica","na","North America",76,-0.3939108533
+2009,"mex","Mexico","na","North America",27,0.9042737277
+2009,"nic","Nicaragua","na","North America",105,-1.0644821594
+2009,"pan","Panama","na","North America",64,-0.038953525
+2009,"slv","El Salvador","na","North America",78,-0.4061419049
+2009,"usa","United States","na","North America",7,1.5450808417
+2009,"aus","Australia","oc","Oceania",55,0.1342617545
+2009,"nzl","New Zealand","oc","Oceania",37,0.5531666388
+2009,"png","Papua New Guinea","oc","Oceania",121,-2.2885354437
+2009,"arg","Argentina","sa","South America",40,0.43082563
+2009,"bol","Bolivia","sa","South America",101,-0.9136074041
+2009,"bra","Brazil","sa","South America",32,0.6396621391
+2009,"chl","Chile","sa","South America",65,-0.0826205468
+2009,"col","Colombia","sa","South America",62,-0.0160986368
+2009,"ecu","Ecuador","sa","South America",98,-0.8148696918
+2009,"per","Peru","sa","South America",94,-0.7711048731
+2009,"pry","Paraguay","sa","South America",93,-0.7495484057
+2009,"ury","Uruguay","sa","South America",58,0.0811155321
+2009,"ven","Venezuela","sa","South America",59,0.0221483006
+2010,"ago","Angola","af","Africa",114,-1.6077818042
+2010,"bwa","Botswana","af","Africa",62,-0.056365634
+2010,"civ","Cote d'Ivoire","af","Africa",105,-1.0965054705
+2010,"cmr","Cameroon","af","Africa",121,-1.9740886764
+2010,"cod","Democratic Republic of the Congo","af","Africa",116,-1.7025381228
+2010,"cog","Republic of the Congo","af","Africa",118,-1.8039034042
+2010,"dza","Algeria","af","Africa",89,-0.6134237019
+2010,"egy","Egypt","af","Africa",73,-0.2761821699
+2010,"eth","Ethiopia","af","Africa",101,-0.9027554092
+2010,"gab","Gabon","af","Africa",115,-1.6193087779
+2010,"gha","Ghana","af","Africa",107,-1.1379755656
+2010,"ken","Kenya","af","Africa",77,-0.391144025
+2010,"lby","Libya","af","Africa",83,-0.5036553878
+2010,"mar","Morocco","af","Africa",98,-0.8553703258
+2010,"moz","Mozambique","af","Africa",112,-1.5715335228
+2010,"mrt","Mauritania","af","Africa",111,-1.4013180221
+2010,"nam","Namibia","af","Africa",70,-0.1933086861
+2010,"nga","Nigeria","af","Africa",120,-1.9504260936
+2010,"sdn","Sudan","af","Africa",119,-1.8258403363
+2010,"sen","Senegal","af","Africa",76,-0.3583815965
+2010,"tcd","Chad","af","Africa",63,-0.0572455467
+2010,"tun","Tunisia","af","Africa",69,-0.1655260853
+2010,"tza","Tanzania","af","Africa",93,-0.7423527738
+2010,"uga","Uganda","af","Africa",80,-0.4659130757
+2010,"zaf","South Africa","af","Africa",46,0.361854208
+2010,"zmb","Zambia","af","Africa",90,-0.632723336
+2010,"zwe","Zimbabwe","af","Africa",86,-0.5407109259
+2010,"are","United Arab Emirates","as","Asia",67,-0.1608354527
+2010,"aze","Azerbaijan","as","Asia",88,-0.6027863626
+2010,"bgd","Bangladesh","as","Asia",110,-1.3342408066
+2010,"chn","China","as","Asia",37,0.5311618417
+2010,"geo","Georgia","as","Asia",60,-0.0073540496
+2010,"hkg","Hong Kong","as","Asia",41,0.4360403216
+2010,"idn","Indonesia","as","Asia",74,-0.3378711648
+2010,"ind","India","as","Asia",52,0.2436993929
+2010,"irn","Iran","as","Asia",68,-0.1636134937
+2010,"irq","Iraq","as","Asia",109,-1.31661065
+2010,"isr","Israel","as","Asia",22,1.141635444
+2010,"jor","Jordan","as","Asia",57,0.0611577007
+2010,"jpn","Japan","as","Asia",1,2.0330439514
+2010,"kaz","Kazakhstan","as","Asia",75,-0.3555286275
+2010,"khm","Cambodia","as","Asia",113,-1.6076933163
+2010,"kor","South Korea","as","Asia",13,1.4517332118
+2010,"kwt","Kuwait","as","Asia",49,0.32352211
+2010,"lao","Laos","as","Asia",108,-1.309630902
+2010,"lbn","Lebanon","as","Asia",47,0.3485012612
+2010,"lka","Sri Lanka","as","Asia",99,-0.8580171053
+2010,"mmr","Burma","as","Asia",117,-1.7143555781
+2010,"mng","Mongolia","as","Asia",104,-1.050202102
+2010,"mys","Malaysia","as","Asia",30,0.7361103602
+2010,"omn","Oman","as","Asia",87,-0.5466498729
+2010,"pak","Pakistan","as","Asia",94,-0.7738103239
+2010,"phl","Philippines","as","Asia",54,0.1073489982
+2010,"prk","North Korea","as","Asia",35,0.5543115406
+2010,"qat","Qatar","as","Asia",53,0.2017576046
+2010,"sau","Saudi Arabia","as","Asia",38,0.5013854001
+2010,"sgp","Singapore","as","Asia",8,1.5463538814
+2010,"syr","Syria","as","Asia",79,-0.4182190057
+2010,"tha","Thailand","as","Asia",40,0.4473394462
+2010,"tkm","Turkmenistan","as","Asia",102,-0.9287226973
+2010,"tur","Turkey","as","Asia",50,0.2948539086
+2010,"twn","Chinese Taipei","as","Asia",11,1.4889095484
+2010,"uzb","Uzbekistan","as","Asia",91,-0.6389068773
+2010,"vnm","Vietnam","as","Asia",82,-0.4982931011
+2010,"yem","Yemen","as","Asia",103,-0.9787891974
+2010,"alb","Albania","eu","Europe",56,0.0787008793
+2010,"aut","Austria","eu","Europe",9,1.5379045033
+2010,"bel","Belgium","eu","Europe",15,1.3166679768
+2010,"bgr","Bulgaria","eu","Europe",48,0.3247552887
+2010,"bih","Bosnia and Herzegovina","eu","Europe",44,0.3781660898
+2010,"blr","Belarus","eu","Europe",28,0.8328406024
+2010,"che","Switzerland","eu","Europe",3,1.777817076
+2010,"cze","Czechia","eu","Europe",10,1.5312463297
+2010,"deu","Germany","eu","Europe",2,1.8208058866
+2010,"dnk","Denmark","eu","Europe",21,1.1975839423
+2010,"esp","Spain","eu","Europe",27,0.9168495518
+2010,"fin","Finland","eu","Europe",5,1.6361828554
+2010,"fra","France","eu","Europe",12,1.4581962178
+2010,"gbr","United Kingdom","eu","Europe",6,1.5950254151
+2010,"grc","Greece","eu","Europe",51,0.2597112587
+2010,"hrv","Croatia","eu","Europe",31,0.6633703851
+2010,"hun","Hungary","eu","Europe",17,1.2905705038
+2010,"irl","Ireland","eu","Europe",14,1.3954107069
+2010,"ita","Italy","eu","Europe",18,1.2452273966
+2010,"ltu","Lithuania","eu","Europe",42,0.4086486883
+2010,"mda","Moldova","eu","Europe",71,-0.2034947488
+2010,"nld","Netherlands","eu","Europe",20,1.1998115719
+2010,"nor","Norway","eu","Europe",23,1.0280098543
+2010,"pol","Poland","eu","Europe",24,1.0136798898
+2010,"prt","Portugal","eu","Europe",43,0.400522698
+2010,"rou","Romania","eu","Europe",33,0.6252355196
+2010,"rus","Russia","eu","Europe",29,0.7989296524
+2010,"srb","Serbia","eu","Europe",36,0.5456197532
+2010,"svk","Slovakia","eu","Europe",19,1.2228671007
+2010,"svn","Slovenia","eu","Europe",16,1.3089102381
+2010,"swe","Sweden","eu","Europe",4,1.7358593013
+2010,"ukr","Ukraine","eu","Europe",32,0.6541516361
+2010,"can","Canada","na","North America",25,0.954430818
+2010,"cri","Costa Rica","na","North America",66,-0.1227997387
+2010,"cub","Cuba","na","North America",85,-0.5164745754
+2010,"dom","Dominican Republic","na","North America",72,-0.2682528197
+2010,"gtm","Guatemala","na","North America",84,-0.5140996075
+2010,"hnd","Honduras","na","North America",96,-0.8087685752
+2010,"jam","Jamaica","na","North America",81,-0.4681637088
+2010,"mex","Mexico","na","North America",26,0.9494861834
+2010,"nic","Nicaragua","na","North America",106,-1.1200328397
+2010,"pan","Panama","na","North America",59,-0.0029118566
+2010,"slv","El Salvador","na","North America",78,-0.3932817686
+2010,"usa","United States","na","North America",7,1.5682309942
+2010,"aus","Australia","oc","Oceania",55,0.097852273
+2010,"nzl","New Zealand","oc","Oceania",39,0.4840515876
+2010,"png","Papua New Guinea","oc","Oceania",122,-2.183742376
+2010,"arg","Argentina","sa","South America",45,0.3636804626
+2010,"bol","Bolivia","sa","South America",100,-0.8701873156
+2010,"bra","Brazil","sa","South America",34,0.6127527787
+2010,"chl","Chile","sa","South America",65,-0.1091502725
+2010,"col","Colombia","sa","South America",64,-0.0823614541
+2010,"ecu","Ecuador","sa","South America",92,-0.7305461062
+2010,"per","Peru","sa","South America",95,-0.7852070866
+2010,"pry","Paraguay","sa","South America",97,-0.820259164
+2010,"ury","Uruguay","sa","South America",58,0.0482210734
+2010,"ven","Venezuela","sa","South America",61,-0.0405618933
+2011,"ago","Angola","af","Africa",117,-1.3827571037
+2011,"bfa","Burkina Faso","af","Africa",111,-1.0665878477
+2011,"bwa","Botswana","af","Africa",61,-0.0271848291
+2011,"civ","Cote d'Ivoire","af","Africa",113,-1.1674031395
+2011,"cmr","Cameroon","af","Africa",127,-2.0759975509
+2011,"cod","Democratic Republic of the Congo","af","Africa",106,-0.9588253403
+2011,"cog","Republic of the Congo","af","Africa",122,-1.714406247
+2011,"dza","Algeria","af","Africa",93,-0.6664085565
+2011,"egy","Egypt","af","Africa",76,-0.3578107851
+2011,"eth","Ethiopia","af","Africa",109,-1.0348958872
+2011,"gab","Gabon","af","Africa",115,-1.3219206279
+2011,"gha","Ghana","af","Africa",110,-1.0614799422
+2011,"gin","Guinea","af","Africa",124,-1.7611808151
+2011,"ken","Kenya","af","Africa",84,-0.495164662
+2011,"lby","Libya","af","Africa",82,-0.4219174926
+2011,"mar","Morocco","af","Africa",98,-0.8016667665
+2011,"mli","Mali","af","Africa",92,-0.6458845702
+2011,"moz","Mozambique","af","Africa",114,-1.230546094
+2011,"mrt","Mauritania","af","Africa",104,-0.8675946516
+2011,"mwi","Malawi","af","Africa",105,-0.8760917317
+2011,"nam","Namibia","af","Africa",80,-0.3738184608
+2011,"nga","Nigeria","af","Africa",121,-1.6968891528
+2011,"sdn","Sudan","af","Africa",126,-1.9825069677
+2011,"sen","Senegal","af","Africa",83,-0.4448566928
+2011,"tcd","Chad","af","Africa",60,0.0173009086
+2011,"tun","Tunisia","af","Africa",65,-0.0617394512
+2011,"tza","Tanzania","af","Africa",95,-0.7695416966
+2011,"uga","Uganda","af","Africa",86,-0.5298877811
+2011,"zaf","South Africa","af","Africa",46,0.3656578949
+2011,"zmb","Zambia","af","Africa",88,-0.5863609065
+2011,"zwe","Zimbabwe","af","Africa",91,-0.6454162866
+2011,"are","United Arab Emirates","as","Asia",62,-0.0444145703
+2011,"aze","Azerbaijan","as","Asia",73,-0.3539355973
+2011,"bgd","Bangladesh","as","Asia",116,-1.3541921845
+2011,"chn","China","as","Asia",33,0.6597279926
+2011,"geo","Georgia","as","Asia",59,0.0363152775
+2011,"hkg","Hong Kong","as","Asia",36,0.6207265118
+2011,"idn","Indonesia","as","Asia",74,-0.3545540847
+2011,"ind","India","as","Asia",50,0.2974333668
+2011,"irn","Iran","as","Asia",70,-0.221940143
+2011,"irq","Iraq","as","Asia",120,-1.6316452592
+2011,"isr","Israel","as","Asia",21,1.1963446315
+2011,"jor","Jordan","as","Asia",56,0.0529629188
+2011,"jpn","Japan","as","Asia",1,2.1633062197
+2011,"kaz","Kazakhstan","as","Asia",72,-0.3014529616
+2011,"kgz","Kyrgyzstan","as","Asia",77,-0.3600199573
+2011,"khm","Cambodia","as","Asia",119,-1.5936553808
+2011,"kor","South Korea","as","Asia",11,1.5884904463
+2011,"kwt","Kuwait","as","Asia",49,0.3312602996
+2011,"lao","Laos","as","Asia",118,-1.4383425563
+2011,"lbn","Lebanon","as","Asia",48,0.33583034
+2011,"lka","Sri Lanka","as","Asia",100,-0.8214378525
+2011,"mmr","Burma","as","Asia",125,-1.7626321426
+2011,"mng","Mongolia","as","Asia",108,-1.0241419648
+2011,"mys","Malaysia","as","Asia",29,0.8346692814
+2011,"omn","Oman","as","Asia",90,-0.6213304292
+2011,"pak","Pakistan","as","Asia",97,-0.7907458239
+2011,"phl","Philippines","as","Asia",53,0.2017334541
+2011,"prk","North Korea","as","Asia",40,0.4803745347
+2011,"qat","Qatar","as","Asia",54,0.1298810364
+2011,"sau","Saudi Arabia","as","Asia",37,0.6160832073
+2011,"sgp","Singapore","as","Asia",12,1.5783717957
+2011,"syr","Syria","as","Asia",78,-0.3677165121
+2011,"tha","Thailand","as","Asia",38,0.553973568
+2011,"tkm","Turkmenistan","as","Asia",102,-0.8521070312
+2011,"tur","Turkey","as","Asia",47,0.3639262821
+2011,"twn","Chinese Taipei","as","Asia",5,1.6505375787
+2011,"uzb","Uzbekistan","as","Asia",87,-0.5701144068
+2011,"vnm","Vietnam","as","Asia",81,-0.3827036742
+2011,"yem","Yemen","as","Asia",101,-0.8252801253
+2011,"alb","Albania","eu","Europe",58,0.0448243043
+2011,"aut","Austria","eu","Europe",10,1.6053639022
+2011,"bel","Belgium","eu","Europe",17,1.3598523512
+2011,"bgr","Bulgaria","eu","Europe",45,0.3858319325
+2011,"bih","Bosnia and Herzegovina","eu","Europe",43,0.4446330517
+2011,"blr","Belarus","eu","Europe",28,0.8907653357
+2011,"che","Switzerland","eu","Europe",2,1.9090254241
+2011,"cze","Czechia","eu","Europe",8,1.6076128918
+2011,"deu","Germany","eu","Europe",3,1.8852785467
+2011,"dnk","Denmark","eu","Europe",22,1.1822502669
+2011,"esp","Spain","eu","Europe",27,0.9477096622
+2011,"fin","Finland","eu","Europe",6,1.6134269111
+2011,"fra","France","eu","Europe",13,1.4966088529
+2011,"gbr","United Kingdom","eu","Europe",9,1.6053783431
+2011,"grc","Greece","eu","Europe",52,0.2484222248
+2011,"hrv","Croatia","eu","Europe",31,0.6893984061
+2011,"hun","Hungary","eu","Europe",16,1.3662818227
+2011,"irl","Ireland","eu","Europe",15,1.3989603208
+2011,"ita","Italy","eu","Europe",19,1.3195180158
+2011,"ltu","Lithuania","eu","Europe",41,0.4722071119
+2011,"mda","Moldova","eu","Europe",68,-0.1897474531
+2011,"nld","Netherlands","eu","Europe",20,1.221586982
+2011,"nor","Norway","eu","Europe",24,1.0393304679
+2011,"pol","Poland","eu","Europe",23,1.0841046571
+2011,"prt","Portugal","eu","Europe",44,0.4192413654
+2011,"rou","Romania","eu","Europe",34,0.6549289297
+2011,"rus","Russia","eu","Europe",30,0.7317490866
+2011,"srb","Serbia","eu","Europe",39,0.5232021967
+2011,"svk","Slovakia","eu","Europe",18,1.3489312852
+2011,"svn","Slovenia","eu","Europe",14,1.4005156363
+2011,"swe","Sweden","eu","Europe",4,1.7577399995
+2011,"ukr","Ukraine","eu","Europe",35,0.6388630882
+2011,"can","Canada","na","North America",26,0.9739329177
+2011,"cri","Costa Rica","na","North America",64,-0.051933432
+2011,"cub","Cuba","na","North America",85,-0.4978730259
+2011,"dom","Dominican Republic","na","North America",69,-0.2131124577
+2011,"gtm","Guatemala","na","North America",89,-0.5880320021
+2011,"hnd","Honduras","na","North America",103,-0.8643219593
+2011,"jam","Jamaica","na","North America",75,-0.3556385407
+2011,"mex","Mexico","na","North America",25,1.025088022
+2011,"nic","Nicaragua","na","North America",112,-1.1669620409
+2011,"pan","Panama","na","North America",55,0.1039074081
+2011,"slv","El Salvador","na","North America",79,-0.3677443969
+2011,"usa","United States","na","North America",7,1.6094361824
+2011,"aus","Australia","oc","Oceania",66,-0.0886299266
+2011,"nzl","New Zealand","oc","Oceania",42,0.4451867244
+2011,"png","Papua New Guinea","oc","Oceania",123,-1.7501474012
+2011,"arg","Argentina","sa","South America",51,0.2653681344
+2011,"bol","Bolivia","sa","South America",107,-1.0151066005
+2011,"bra","Brazil","sa","South America",32,0.6695591608
+2011,"chl","Chile","sa","South America",67,-0.1119893829
+2011,"col","Colombia","sa","South America",63,-0.051889372
+2011,"ecu","Ecuador","sa","South America",94,-0.6760591789
+2011,"per","Peru","sa","South America",96,-0.7815245389
+2011,"pry","Paraguay","sa","South America",99,-0.8072573195
+2011,"ury","Uruguay","sa","South America",57,0.0477740955
+2011,"ven","Venezuela","sa","South America",71,-0.2316298429
+2012,"ago","Angola","af","Africa",119,-1.3644373609
+2012,"bfa","Burkina Faso","af","Africa",118,-1.3218387358
+2012,"bwa","Botswana","af","Africa",71,-0.2875004861
+2012,"civ","Cote d'Ivoire","af","Africa",114,-1.1409435833
+2012,"cmr","Cameroon","af","Africa",127,-1.7391046867
+2012,"cod","Democratic Republic of the Congo","af","Africa",109,-1.0086044192
+2012,"cog","Republic of the Congo","af","Africa",122,-1.5527216103
+2012,"dza","Algeria","af","Africa",104,-0.8984946065
+2012,"egy","Egypt","af","Africa",75,-0.3258149206
+2012,"eth","Ethiopia","af","Africa",113,-1.1213054743
+2012,"gab","Gabon","af","Africa",105,-0.9152662955
+2012,"gha","Ghana","af","Africa",110,-1.0277687153
+2012,"gin","Guinea","af","Africa",128,-1.8446978644
+2012,"ken","Kenya","af","Africa",86,-0.539820345
+2012,"lby","Libya","af","Africa",78,-0.40421007
+2012,"mar","Morocco","af","Africa",100,-0.8025501107
+2012,"mdg","Madagascar","af","Africa",111,-1.0432058471
+2012,"mli","Mali","af","Africa",97,-0.7692152004
+2012,"moz","Mozambique","af","Africa",116,-1.2476483126
+2012,"mrt","Mauritania","af","Africa",106,-0.9305305132
+2012,"mwi","Malawi","af","Africa",102,-0.8590644712
+2012,"nam","Namibia","af","Africa",89,-0.5751573184
+2012,"nga","Nigeria","af","Africa",125,-1.6040406503
+2012,"sdn","Sudan","af","Africa",123,-1.5838899618
+2012,"sen","Senegal","af","Africa",84,-0.5198670566
+2012,"tcd","Chad","af","Africa",103,-0.8633920897
+2012,"tgo","Togo","af","Africa",101,-0.8133583188
+2012,"tun","Tunisia","af","Africa",66,-0.1012616083
+2012,"tza","Tanzania","af","Africa",96,-0.7677260501
+2012,"uga","Uganda","af","Africa",81,-0.5090570396
+2012,"zaf","South Africa","af","Africa",48,0.3388444355
+2012,"zmb","Zambia","af","Africa",82,-0.5110192088
+2012,"zwe","Zimbabwe","af","Africa",94,-0.7410381017
+2012,"are","United Arab Emirates","as","Asia",59,0.0565835952
+2012,"aze","Azerbaijan","as","Asia",77,-0.3339991353
+2012,"bgd","Bangladesh","as","Asia",117,-1.3020892039
+2012,"chn","China","as","Asia",30,0.7526133772
+2012,"geo","Georgia","as","Asia",55,0.1151365184
+2012,"hkg","Hong Kong","as","Asia",32,0.7212545291
+2012,"idn","Indonesia","as","Asia",72,-0.2957429156
+2012,"ind","India","as","Asia",49,0.3258398225
+2012,"irn","Iran","as","Asia",67,-0.1409772366
+2012,"irq","Iraq","as","Asia",129,-2.1832081083
+2012,"isr","Israel","as","Asia",21,1.2330263247
+2012,"jor","Jordan","as","Asia",58,0.0625823551
+2012,"jpn","Japan","as","Asia",1,2.1703681015
+2012,"kaz","Kazakhstan","as","Asia",61,0.0048309104
+2012,"kgz","Kyrgyzstan","as","Asia",70,-0.2624984576
+2012,"khm","Cambodia","as","Asia",121,-1.516196638
+2012,"kor","South Korea","as","Asia",6,1.6884341047
+2012,"kwt","Kuwait","as","Asia",51,0.2775689327
+2012,"lao","Laos","as","Asia",120,-1.413853569
+2012,"lbn","Lebanon","as","Asia",47,0.3757676705
+2012,"lka","Sri Lanka","as","Asia",98,-0.7790579255
+2012,"mmr","Burma","as","Asia",126,-1.6200829699
+2012,"mng","Mongolia","as","Asia",107,-0.9500594197
+2012,"mys","Malaysia","as","Asia",28,0.9402719625
+2012,"omn","Oman","as","Asia",79,-0.4075369771
+2012,"pak","Pakistan","as","Asia",99,-0.7803115393
+2012,"phl","Philippines","as","Asia",52,0.2691135863
+2012,"prk","North Korea","as","Asia",53,0.248673247
+2012,"qat","Qatar","as","Asia",63,-0.0222398495
+2012,"sau","Saudi Arabia","as","Asia",37,0.6617160535
+2012,"sgp","Singapore","as","Asia",7,1.6833864983
+2012,"syr","Syria","as","Asia",76,-0.3259234712
+2012,"tha","Thailand","as","Asia",38,0.6258760082
+2012,"tkm","Turkmenistan","as","Asia",115,-1.143968494
+2012,"tur","Turkey","as","Asia",45,0.4080391695
+2012,"twn","Chinese Taipei","as","Asia",4,1.7378823895
+2012,"uzb","Uzbekistan","as","Asia",88,-0.5635182099
+2012,"vnm","Vietnam","as","Asia",74,-0.3151922345
+2012,"yem","Yemen","as","Asia",108,-0.9700150799
+2012,"alb","Albania","eu","Europe",90,-0.5810218054
+2012,"aut","Austria","eu","Europe",10,1.5972417264
+2012,"bel","Belgium","eu","Europe",17,1.3503165819
+2012,"bgr","Bulgaria","eu","Europe",44,0.436890294
+2012,"bih","Bosnia and Herzegovina","eu","Europe",42,0.4712421293
+2012,"blr","Belarus","eu","Europe",27,0.9424134566
+2012,"che","Switzerland","eu","Europe",2,1.9399751034
+2012,"cze","Czechia","eu","Europe",11,1.5952801294
+2012,"deu","Germany","eu","Europe",3,1.8783328648
+2012,"dnk","Denmark","eu","Europe",22,1.1988476558
+2012,"esp","Spain","eu","Europe",29,0.9201428174
+2012,"fin","Finland","eu","Europe",12,1.5615927305
+2012,"fra","France","eu","Europe",13,1.4877456423
+2012,"gbr","United Kingdom","eu","Europe",9,1.6104115095
+2012,"grc","Greece","eu","Europe",50,0.3107313101
+2012,"hrv","Croatia","eu","Europe",31,0.7406921063
+2012,"hun","Hungary","eu","Europe",14,1.4480286793
+2012,"irl","Ireland","eu","Europe",15,1.4139104687
+2012,"ita","Italy","eu","Europe",18,1.3297083631
+2012,"ltu","Lithuania","eu","Europe",39,0.5936443478
+2012,"mda","Moldova","eu","Europe",65,-0.1004513674
+2012,"nld","Netherlands","eu","Europe",20,1.2469422364
+2012,"nor","Norway","eu","Europe",26,0.9654128324
+2012,"pol","Poland","eu","Europe",23,1.0967406122
+2012,"prt","Portugal","eu","Europe",43,0.4503685962
+2012,"rou","Romania","eu","Europe",34,0.7036765776
+2012,"rus","Russia","eu","Europe",33,0.7189213631
+2012,"srb","Serbia","eu","Europe",40,0.564609143
+2012,"svk","Slovakia","eu","Europe",19,1.3262434907
+2012,"svn","Slovenia","eu","Europe",16,1.4125248501
+2012,"swe","Sweden","eu","Europe",5,1.7273726586
+2012,"ukr","Ukraine","eu","Europe",35,0.6770463088
+2012,"can","Canada","na","North America",25,0.9656675014
+2012,"cri","Costa Rica","na","North America",57,0.0627954448
+2012,"cub","Cuba","na","North America",83,-0.5133434875
+2012,"dom","Dominican Republic","na","North America",68,-0.2312782783
+2012,"gtm","Guatemala","na","North America",85,-0.521186216
+2012,"hnd","Honduras","na","North America",95,-0.7486117496
+2012,"jam","Jamaica","na","North America",69,-0.2445126774
+2012,"mex","Mexico","na","North America",24,1.0288816693
+2012,"nic","Nicaragua","na","North America",112,-1.0778524908
+2012,"pan","Panama","na","North America",54,0.2370829374
+2012,"slv","El Salvador","na","North America",73,-0.3016660426
+2012,"usa","United States","na","North America",8,1.6241631069
+2012,"aus","Australia","oc","Oceania",62,-0.001144654
+2012,"nzl","New Zealand","oc","Oceania",41,0.5522736944
+2012,"png","Papua New Guinea","oc","Oceania",124,-1.6029955208
+2012,"arg","Argentina","sa","South America",46,0.3891911343
+2012,"bol","Bolivia","sa","South America",91,-0.63044726
+2012,"bra","Brazil","sa","South America",36,0.6747103216
+2012,"chl","Chile","sa","South America",64,-0.0418093243
+2012,"col","Colombia","sa","South America",60,0.0055254198
+2012,"ecu","Ecuador","sa","South America",87,-0.5593924815
+2012,"per","Peru","sa","South America",93,-0.7021235567
+2012,"pry","Paraguay","sa","South America",92,-0.6878338647
+2012,"ury","Uruguay","sa","South America",56,0.0710138528
+2012,"ven","Venezuela","sa","South America",80,-0.4194280154
+2013,"ago","Angola","af","Africa",121,-1.3985850034
+2013,"bfa","Burkina Faso","af","Africa",117,-1.2987890726
+2013,"bwa","Botswana","af","Africa",78,-0.3798501172
+2013,"civ","Cote d'Ivoire","af","Africa",113,-1.1084179934
+2013,"cmr","Cameroon","af","Africa",118,-1.307960162
+2013,"cod","Democratic Republic of the Congo","af","Africa",106,-0.9249860299
+2013,"cog","Republic of the Congo","af","Africa",130,-1.7941629196
+2013,"dza","Algeria","af","Africa",111,-1.0455101768
+2013,"egy","Egypt","af","Africa",72,-0.2695081802
+2013,"eth","Ethiopia","af","Africa",115,-1.1434500387
+2013,"gab","Gabon","af","Africa",107,-0.9408217094
+2013,"gha","Ghana","af","Africa",105,-0.9073921143
+2013,"gin","Guinea","af","Africa",125,-1.4685856931
+2013,"ken","Kenya","af","Africa",86,-0.5490354286
+2013,"lby","Libya","af","Africa",110,-1.026757671
+2013,"mar","Morocco","af","Africa",101,-0.8090116596
+2013,"mdg","Madagascar","af","Africa",116,-1.2092625663
+2013,"mli","Mali","af","Africa",100,-0.7971499959
+2013,"moz","Mozambique","af","Africa",109,-0.9914930583
+2013,"mrt","Mauritania","af","Africa",108,-0.9729164717
+2013,"mwi","Malawi","af","Africa",103,-0.8218027831
+2013,"nam","Namibia","af","Africa",80,-0.4545946042
+2013,"ner","Niger","af","Africa",96,-0.7248707527
+2013,"nga","Nigeria","af","Africa",127,-1.502438797
+2013,"sdn","Sudan","af","Africa",124,-1.4236686428
+2013,"sen","Senegal","af","Africa",83,-0.4838392571
+2013,"tcd","Chad","af","Africa",131,-2.1253691109
+2013,"tgo","Togo","af","Africa",91,-0.6732125999
+2013,"tun","Tunisia","af","Africa",68,-0.0838584244
+2013,"tza","Tanzania","af","Africa",99,-0.7968619309
+2013,"uga","Uganda","af","Africa",81,-0.4558936566
+2013,"zaf","South Africa","af","Africa",50,0.346497434
+2013,"zmb","Zambia","af","Africa",74,-0.2917830415
+2013,"zwe","Zimbabwe","af","Africa",97,-0.7736491485
+2013,"are","United Arab Emirates","as","Asia",54,0.1704076171
+2013,"arm","Armenia","as","Asia",55,0.1446436171
+2013,"aze","Azerbaijan","as","Asia",82,-0.4767782905
+2013,"bgd","Bangladesh","as","Asia",120,-1.3947052625
+2013,"chn","China","as","Asia",31,0.795402852
+2013,"geo","Georgia","as","Asia",59,0.0458891748
+2013,"hkg","Hong Kong","as","Asia",34,0.7453194592
+2013,"idn","Indonesia","as","Asia",73,-0.2780105891
+2013,"ind","India","as","Asia",49,0.3513262383
+2013,"irn","Iran","as","Asia",63,-0.020547468
+2013,"irq","Iraq","as","Asia",129,-1.7366093427
+2013,"isr","Israel","as","Asia",20,1.2279832686
+2013,"jor","Jordan","as","Asia",56,0.0819744187
+2013,"jpn","Japan","as","Asia",1,2.1468130898
+2013,"kaz","Kazakhstan","as","Asia",62,0.0148863985
+2013,"kgz","Kyrgyzstan","as","Asia",69,-0.1348508978
+2013,"khm","Cambodia","as","Asia",126,-1.4996824673
+2013,"kor","South Korea","as","Asia",6,1.7180083341
+2013,"kwt","Kuwait","as","Asia",47,0.3864745158
+2013,"lao","Laos","as","Asia",123,-1.4132912568
+2013,"lbn","Lebanon","as","Asia",48,0.3528239841
+2013,"lka","Sri Lanka","as","Asia",98,-0.7949205068
+2013,"mmr","Burma","as","Asia",128,-1.5357910301
+2013,"mng","Mongolia","as","Asia",104,-0.8382056395
+2013,"mys","Malaysia","as","Asia",25,1.022329976
+2013,"omn","Oman","as","Asia",79,-0.4096710612
+2013,"pak","Pakistan","as","Asia",102,-0.8158136315
+2013,"phl","Philippines","as","Asia",52,0.282899756
+2013,"prk","North Korea","as","Asia",66,-0.0506957146
+2013,"qat","Qatar","as","Asia",61,0.0354759071
+2013,"sau","Saudi Arabia","as","Asia",30,0.850146196
+2013,"sgp","Singapore","as","Asia",7,1.6509483718
+2013,"syr","Syria","as","Asia",77,-0.3368472118
+2013,"tha","Thailand","as","Asia",37,0.6736911245
+2013,"tkm","Turkmenistan","as","Asia",119,-1.3509544584
+2013,"tur","Turkey","as","Asia",45,0.4162400556
+2013,"twn","Chinese Taipei","as","Asia",4,1.7882377152
+2013,"uzb","Uzbekistan","as","Asia",93,-0.68773841
+2013,"vnm","Vietnam","as","Asia",75,-0.3162805353
+2013,"yem","Yemen","as","Asia",112,-1.0464282167
+2013,"alb","Albania","eu","Europe",89,-0.6029652064
+2013,"aut","Austria","eu","Europe",12,1.6091231254
+2013,"bel","Belgium","eu","Europe",17,1.3623109928
+2013,"bgr","Bulgaria","eu","Europe",43,0.4552507294
+2013,"bih","Bosnia and Herzegovina","eu","Europe",42,0.5239947511
+2013,"blr","Belarus","eu","Europe",26,0.963887737
+2013,"che","Switzerland","eu","Europe",2,1.9562652441
+2013,"cze","Czechia","eu","Europe",8,1.632926328
+2013,"deu","Germany","eu","Europe",3,1.88037743
+2013,"dnk","Denmark","eu","Europe",21,1.1901226729
+2013,"esp","Spain","eu","Europe",29,0.9147833557
+2013,"fin","Finland","eu","Europe",11,1.6091558685
+2013,"fra","France","eu","Europe",13,1.4943439815
+2013,"gbr","United Kingdom","eu","Europe",10,1.6110087137
+2013,"grc","Greece","eu","Europe",51,0.3127138253
+2013,"hrv","Croatia","eu","Europe",32,0.756387986
+2013,"hun","Hungary","eu","Europe",15,1.4073939619
+2013,"irl","Ireland","eu","Europe",16,1.3918026678
+2013,"ita","Italy","eu","Europe",18,1.3528040341
+2013,"ltu","Lithuania","eu","Europe",39,0.6445130996
+2013,"mda","Moldova","eu","Europe",67,-0.0536973734
+2013,"nld","Netherlands","eu","Europe",22,1.1828774266
+2013,"nor","Norway","eu","Europe",27,0.9621992512
+2013,"pol","Poland","eu","Europe",23,1.1355431675
+2013,"prt","Portugal","eu","Europe",44,0.4290139111
+2013,"rou","Romania","eu","Europe",33,0.7530832886
+2013,"rus","Russia","eu","Europe",35,0.7316688654
+2013,"srb","Serbia","eu","Europe",40,0.6098364187
+2013,"svk","Slovakia","eu","Europe",19,1.3184526115
+2013,"svn","Slovenia","eu","Europe",14,1.4434655278
+2013,"swe","Sweden","eu","Europe",5,1.7309935563
+2013,"ukr","Ukraine","eu","Europe",36,0.7041806847
+2013,"can","Canada","na","North America",28,0.9495483792
+2013,"cri","Costa Rica","na","North America",57,0.081362541
+2013,"cub","Cuba","na","North America",87,-0.5563212208
+2013,"dom","Dominican Republic","na","North America",71,-0.2625019907
+2013,"gtm","Guatemala","na","North America",85,-0.5274403818
+2013,"hnd","Honduras","na","North America",94,-0.7041831755
+2013,"jam","Jamaica","na","North America",70,-0.1747214145
+2013,"mex","Mexico","na","North America",24,1.0705600312
+2013,"nic","Nicaragua","na","North America",114,-1.1184080725
+2013,"pan","Panama","na","North America",53,0.2057692752
+2013,"slv","El Salvador","na","North America",76,-0.3187745954
+2013,"usa","United States","na","North America",9,1.6273581881
+2013,"aus","Australia","oc","Oceania",65,-0.0243093684
+2013,"nzl","New Zealand","oc","Oceania",41,0.5654805666
+2013,"png","Papua New Guinea","oc","Oceania",122,-1.4080479736
+2013,"arg","Argentina","sa","South America",46,0.3895013858
+2013,"bol","Bolivia","sa","South America",95,-0.7081985077
+2013,"bra","Brazil","sa","South America",38,0.6607480051
+2013,"chl","Chile","sa","South America",64,-0.0228269765
+2013,"col","Colombia","sa","South America",60,0.0433490738
+2013,"ecu","Ecuador","sa","South America",90,-0.6466728545
+2013,"per","Peru","sa","South America",92,-0.6814031249
+2013,"pry","Paraguay","sa","South America",88,-0.5814132297
+2013,"ury","Uruguay","sa","South America",58,0.0724157989
+2013,"ven","Venezuela","sa","South America",84,-0.4997976937
+2014,"ago","Angola","af","Africa",125,-1.4422860877
+2014,"ben","Benin","af","Africa",93,-0.5604003552
+2014,"bfa","Burkina Faso","af","Africa",117,-1.121708376
+2014,"bwa","Botswana","af","Africa",81,-0.3454955154
+2014,"civ","Cote d'Ivoire","af","Africa",112,-0.9969124481
+2014,"cmr","Cameroon","af","Africa",106,-0.904185822
+2014,"cod","Democratic Republic of the Congo","af","Africa",129,-1.5677514788
+2014,"cog","Republic of the Congo","af","Africa",126,-1.5047139579
+2014,"dza","Algeria","af","Africa",114,-1.0709160993
+2014,"egy","Egypt","af","Africa",71,-0.1474978496
+2014,"eth","Ethiopia","af","Africa",109,-0.9769081522
+2014,"gab","Gabon","af","Africa",103,-0.8558328217
+2014,"gha","Ghana","af","Africa",110,-0.9890883664
+2014,"gin","Guinea","af","Africa",130,-1.6015632792
+2014,"ken","Kenya","af","Africa",84,-0.4218393499
+2014,"lby","Libya","af","Africa",124,-1.3804264785
+2014,"mar","Morocco","af","Africa",100,-0.6866870788
+2014,"mdg","Madagascar","af","Africa",121,-1.2523466593
+2014,"mli","Mali","af","Africa",107,-0.953142885
+2014,"moz","Mozambique","af","Africa",116,-1.1006137904
+2014,"mrt","Mauritania","af","Africa",108,-0.9758477474
+2014,"nam","Namibia","af","Africa",79,-0.3022410669
+2014,"ner","Niger","af","Africa",101,-0.6990018063
+2014,"nga","Nigeria","af","Africa",123,-1.319621871
+2014,"sdn","Sudan","af","Africa",120,-1.2491271994
+2014,"sen","Senegal","af","Africa",83,-0.413234998
+2014,"sle","Sierra Leone","af","Africa",95,-0.6111117525
+2014,"ssd","South Sudan","af","Africa",133,-2.7489395138
+2014,"tcd","Chad","af","Africa",132,-2.5147131887
+2014,"tgo","Togo","af","Africa",92,-0.5578020259
+2014,"tun","Tunisia","af","Africa",62,0.0123383153
+2014,"tza","Tanzania","af","Africa",104,-0.8613558553
+2014,"uga","Uganda","af","Africa",78,-0.2951421397
+2014,"zaf","South Africa","af","Africa",47,0.3937264561
+2014,"zmb","Zambia","af","Africa",80,-0.3218366765
+2014,"zwe","Zimbabwe","af","Africa",99,-0.6544591077
+2014,"are","United Arab Emirates","as","Asia",54,0.2321050958
+2014,"arm","Armenia","as","Asia",61,0.0513960173
+2014,"aze","Azerbaijan","as","Asia",87,-0.4903792131
+2014,"bgd","Bangladesh","as","Asia",119,-1.2216275747
+2014,"chn","China","as","Asia",30,0.8372219081
+2014,"geo","Georgia","as","Asia",66,-0.0394697179
+2014,"hkg","Hong Kong","as","Asia",32,0.7898242905
+2014,"idn","Indonesia","as","Asia",75,-0.2028723165
+2014,"ind","India","as","Asia",49,0.3869249319
+2014,"irn","Iran","as","Asia",57,0.1435279188
+2014,"irq","Iraq","as","Asia",131,-1.7945717602
+2014,"isr","Israel","as","Asia",18,1.2844939143
+2014,"jor","Jordan","as","Asia",58,0.1245657074
+2014,"jpn","Japan","as","Asia",1,2.0801187922
+2014,"kaz","Kazakhstan","as","Asia",60,0.061188773
+2014,"kgz","Kyrgyzstan","as","Asia",69,-0.1023894385
+2014,"khm","Cambodia","as","Asia",122,-1.2774767939
+2014,"kor","South Korea","as","Asia",5,1.7361240236
+2014,"kwt","Kuwait","as","Asia",50,0.3567522873
+2014,"lao","Laos","as","Asia",118,-1.2151283118
+2014,"lbn","Lebanon","as","Asia",48,0.3935617087
+2014,"lka","Sri Lanka","as","Asia",94,-0.5788783132
+2014,"mmr","Burma","as","Asia",127,-1.5185052485
+2014,"mng","Mongolia","as","Asia",111,-0.990042172
+2014,"mys","Malaysia","as","Asia",25,1.0139634521
+2014,"omn","Oman","as","Asia",77,-0.2887863263
+2014,"pak","Pakistan","as","Asia",102,-0.7070906125
+2014,"phl","Philippines","as","Asia",52,0.3459658195
+2014,"prk","North Korea","as","Asia",72,-0.1634530893
+2014,"qat","Qatar","as","Asia",63,0.0088304858
+2014,"sau","Saudi Arabia","as","Asia",33,0.7895566184
+2014,"sgp","Singapore","as","Asia",7,1.6055141704
+2014,"syr","Syria","as","Asia",65,-0.002755929
+2014,"tha","Thailand","as","Asia",31,0.8091821033
+2014,"tkm","Turkmenistan","as","Asia",115,-1.07865581
+2014,"tur","Turkey","as","Asia",43,0.4788288545
+2014,"twn","Chinese Taipei","as","Asia",4,1.7680728421
+2014,"uzb","Uzbekistan","as","Asia",88,-0.5175639391
+2014,"vnm","Vietnam","as","Asia",76,-0.2315544361
+2014,"yem","Yemen","as","Asia",105,-0.8645861756
+2014,"alb","Albania","eu","Europe",91,-0.5528192866
+2014,"aut","Austria","eu","Europe",11,1.539760512
+2014,"bel","Belgium","eu","Europe",16,1.3352666128
+2014,"bgr","Bulgaria","eu","Europe",45,0.4626013757
+2014,"bih","Bosnia and Herzegovina","eu","Europe",42,0.4887342287
+2014,"blr","Belarus","eu","Europe",28,0.9179965711
+2014,"che","Switzerland","eu","Europe",2,1.8779858498
+2014,"cze","Czechia","eu","Europe",8,1.5916126998
+2014,"deu","Germany","eu","Europe",3,1.8197761098
+2014,"dnk","Denmark","eu","Europe",22,1.1650355992
+2014,"esp","Spain","eu","Europe",27,0.9204581672
+2014,"fin","Finland","eu","Europe",10,1.5639875734
+2014,"fra","France","eu","Europe",15,1.4188696781
+2014,"gbr","United Kingdom","eu","Europe",12,1.5356918816
+2014,"grc","Greece","eu","Europe",51,0.3520389927
+2014,"hrv","Croatia","eu","Europe",35,0.7484311657
+2014,"hun","Hungary","eu","Europe",14,1.4216857026
+2014,"irl","Ireland","eu","Europe",19,1.2837092495
+2014,"ita","Italy","eu","Europe",17,1.3209802919
+2014,"ltu","Lithuania","eu","Europe",36,0.7071129808
+2014,"mda","Moldova","eu","Europe",67,-0.0509378752
+2014,"nld","Netherlands","eu","Europe",21,1.1821720225
+2014,"nor","Norway","eu","Europe",29,0.9155789335
+2014,"pol","Poland","eu","Europe",24,1.0744831819
+2014,"prt","Portugal","eu","Europe",44,0.4708654069
+2014,"rou","Romania","eu","Europe",34,0.7751631531
+2014,"rus","Russia","eu","Europe",40,0.5995628915
+2014,"srb","Serbia","eu","Europe",39,0.605787398
+2014,"svk","Slovakia","eu","Europe",20,1.2612301207
+2014,"svn","Slovenia","eu","Europe",13,1.422018035
+2014,"swe","Sweden","eu","Europe",6,1.6958000868
+2014,"ukr","Ukraine","eu","Europe",37,0.6552690573
+2014,"can","Canada","na","North America",26,0.9659081298
+2014,"cri","Costa Rica","na","North America",55,0.2255578927
+2014,"cub","Cuba","na","North America",86,-0.471684421
+2014,"dom","Dominican Republic","na","North America",74,-0.2002351674
+2014,"gtm","Guatemala","na","North America",82,-0.3859514381
+2014,"hnd","Honduras","na","North America",90,-0.528521998
+2014,"jam","Jamaica","na","North America",73,-0.1767972305
+2014,"mex","Mexico","na","North America",23,1.1056795019
+2014,"nic","Nicaragua","na","North America",113,-1.0625225934
+2014,"pan","Panama","na","North America",53,0.247558641
+2014,"slv","El Salvador","na","North America",70,-0.1445361048
+2014,"usa","United States","na","North America",9,1.5773013353
+2014,"aus","Australia","oc","Oceania",68,-0.0838045744
+2014,"nzl","New Zealand","oc","Oceania",41,0.5192540162
+2014,"png","Papua New Guinea","oc","Oceania",128,-1.5550432328
+2014,"arg","Argentina","sa","South America",46,0.4031673284
+2014,"bol","Bolivia","sa","South America",98,-0.6475899068
+2014,"bra","Brazil","sa","South America",38,0.6417740688
+2014,"chl","Chile","sa","South America",64,0.0011133973
+2014,"col","Colombia","sa","South America",56,0.1467142518
+2014,"ecu","Ecuador","sa","South America",97,-0.6299201401
+2014,"per","Peru","sa","South America",96,-0.6119292465
+2014,"pry","Paraguay","sa","South America",89,-0.5280686428
+2014,"ury","Uruguay","sa","South America",59,0.0820431014
+2014,"ven","Venezuela","sa","South America",85,-0.4286208439
+2015,"ago","Angola","af","Africa",129,-1.7958480534
+2015,"ben","Benin","af","Africa",81,-0.4186077569
+2015,"bfa","Burkina Faso","af","Africa",114,-1.1088735711
+2015,"bwa","Botswana","af","Africa",80,-0.3987215234
+2015,"civ","Cote d'Ivoire","af","Africa",105,-0.8662723145
+2015,"cmr","Cameroon","af","Africa",102,-0.8173385902
+2015,"cod","Democratic Republic of the Congo","af","Africa",124,-1.3665147789
+2015,"cog","Republic of the Congo","af","Africa",127,-1.4919269893
+2015,"dza","Algeria","af","Africa",111,-1.0103373029
+2015,"egy","Egypt","af","Africa",68,-0.114961875
+2015,"eth","Ethiopia","af","Africa",108,-0.9505307332
+2015,"gab","Gabon","af","Africa",100,-0.7678301705
+2015,"gha","Ghana","af","Africa",107,-0.9472006265
+2015,"gin","Guinea","af","Africa",123,-1.3455406512
+2015,"ken","Kenya","af","Africa",84,-0.4527614081
+2015,"lbr","Liberia","af","Africa",109,-0.961496969
+2015,"lby","Libya","af","Africa",122,-1.3293159514
+2015,"mar","Morocco","af","Africa",95,-0.6335546997
+2015,"mdg","Madagascar","af","Africa",118,-1.1957568414
+2015,"mli","Mali","af","Africa",119,-1.2371348827
+2015,"moz","Mozambique","af","Africa",113,-1.072901622
+2015,"mrt","Mauritania","af","Africa",110,-0.9658361223
+2015,"nam","Namibia","af","Africa",76,-0.2727920691
+2015,"ner","Niger","af","Africa",98,-0.6939090079
+2015,"nga","Nigeria","af","Africa",125,-1.4059289995
+2015,"sdn","Sudan","af","Africa",120,-1.2582030741
+2015,"sen","Senegal","af","Africa",78,-0.3390620382
+2015,"sle","Sierra Leone","af","Africa",86,-0.4692253098
+2015,"ssd","South Sudan","af","Africa",132,-2.926324209
+2015,"tcd","Chad","af","Africa",131,-2.1402074762
+2015,"tgo","Togo","af","Africa",91,-0.5554744261
+2015,"tun","Tunisia","af","Africa",62,0.0080556874
+2015,"tza","Tanzania","af","Africa",106,-0.9293688447
+2015,"uga","Uganda","af","Africa",77,-0.3036263898
+2015,"zaf","South Africa","af","Africa",53,0.3407524015
+2015,"zmb","Zambia","af","Africa",83,-0.4456747924
+2015,"zwe","Zimbabwe","af","Africa",97,-0.6766215808
+2015,"are","United Arab Emirates","as","Asia",55,0.2527686693
+2015,"arm","Armenia","as","Asia",61,0.0262380121
+2015,"aze","Azerbaijan","as","Asia",94,-0.6120500243
+2015,"bgd","Bangladesh","as","Asia",121,-1.2771210626
+2015,"chn","China","as","Asia",32,0.8370753888
+2015,"geo","Georgia","as","Asia",66,-0.0639888162
+2015,"hkg","Hong Kong","as","Asia",34,0.7542324672
+2015,"idn","Indonesia","as","Asia",71,-0.1624190198
+2015,"ind","India","as","Asia",46,0.4093450535
+2015,"irn","Iran","as","Asia",58,0.1572281444
+2015,"irq","Iraq","as","Asia",128,-1.6136740889
+2015,"isr","Israel","as","Asia",20,1.2408690068
+2015,"jor","Jordan","as","Asia",59,0.1124523381
+2015,"jpn","Japan","as","Asia",1,2.0776201396
+2015,"kaz","Kazakhstan","as","Asia",60,0.0509068089
+2015,"kgz","Kyrgyzstan","as","Asia",63,0.0023670253
+2015,"khm","Cambodia","as","Asia",115,-1.1401297916
+2015,"kor","South Korea","as","Asia",5,1.7187636637
+2015,"kwt","Kuwait","as","Asia",49,0.383987693
+2015,"lao","Laos","as","Asia",116,-1.1518269268
+2015,"lbn","Lebanon","as","Asia",47,0.4003451555
+2015,"lka","Sri Lanka","as","Asia",93,-0.6080125045
+2015,"mmr","Burma","as","Asia",126,-1.4771206978
+2015,"mng","Mongolia","as","Asia",104,-0.8535745634
+2015,"mys","Malaysia","as","Asia",25,0.9869713617
+2015,"omn","Oman","as","Asia",70,-0.1460142667
+2015,"pak","Pakistan","as","Asia",99,-0.7012895155
+2015,"phl","Philippines","as","Asia",51,0.3738314683
+2015,"prk","North Korea","as","Asia",74,-0.2588453969
+2015,"qat","Qatar","as","Asia",64,0.0022151345
+2015,"sau","Saudi Arabia","as","Asia",28,0.9140674109
+2015,"sgp","Singapore","as","Asia",7,1.5938219413
+2015,"tha","Thailand","as","Asia",31,0.8485946941
+2015,"tkm","Turkmenistan","as","Asia",117,-1.1606756012
+2015,"tur","Turkey","as","Asia",44,0.4747499604
+2015,"twn","Chinese Taipei","as","Asia",4,1.7844907221
+2015,"uzb","Uzbekistan","as","Asia",89,-0.5243041359
+2015,"vnm","Vietnam","as","Asia",75,-0.2682364397
+2015,"yem","Yemen","as","Asia",103,-0.8308283057
+2015,"alb","Albania","eu","Europe",92,-0.5594959328
+2015,"aut","Austria","eu","Europe",12,1.5058843385
+2015,"bel","Belgium","eu","Europe",16,1.3393707803
+2015,"bgr","Bulgaria","eu","Europe",42,0.4964270172
+2015,"bih","Bosnia and Herzegovina","eu","Europe",43,0.4772025727
+2015,"blr","Belarus","eu","Europe",29,0.887617321
+2015,"che","Switzerland","eu","Europe",2,1.8857638839
+2015,"cze","Czechia","eu","Europe",8,1.579289868
+2015,"deu","Germany","eu","Europe",3,1.835071344
+2015,"dnk","Denmark","eu","Europe",22,1.1693170476
+2015,"esp","Spain","eu","Europe",27,0.9270495119
+2015,"fin","Finland","eu","Europe",11,1.5062960647
+2015,"fra","France","eu","Europe",15,1.3927062292
+2015,"gbr","United Kingdom","eu","Europe",10,1.5124294316
+2015,"grc","Greece","eu","Europe",50,0.377510392
+2015,"hrv","Croatia","eu","Europe",35,0.7173208494
+2015,"hun","Hungary","eu","Europe",14,1.4047617744
+2015,"irl","Ireland","eu","Europe",17,1.3102936819
+2015,"ita","Italy","eu","Europe",18,1.3034225674
+2015,"ltu","Lithuania","eu","Europe",36,0.7110903204
+2015,"mda","Moldova","eu","Europe",69,-0.1375828282
+2015,"nld","Netherlands","eu","Europe",21,1.1754363249
+2015,"nor","Norway","eu","Europe",30,0.8524035186
+2015,"pol","Poland","eu","Europe",24,1.1027727261
+2015,"prt","Portugal","eu","Europe",45,0.4729235155
+2015,"rou","Romania","eu","Europe",33,0.8026700593
+2015,"rus","Russia","eu","Europe",41,0.5061899874
+2015,"srb","Serbia","eu","Europe",38,0.6201160319
+2015,"svk","Slovakia","eu","Europe",19,1.2795975732
+2015,"svn","Slovenia","eu","Europe",13,1.4514795764
+2015,"swe","Sweden","eu","Europe",6,1.6686882953
+2015,"ukr","Ukraine","eu","Europe",39,0.6118046122
+2015,"can","Canada","na","North America",26,0.936550909
+2015,"cri","Costa Rica","na","North America",52,0.345166678
+2015,"cub","Cuba","na","North America",85,-0.4626466042
+2015,"dom","Dominican Republic","na","North America",73,-0.1869172431
+2015,"gtm","Guatemala","na","North America",79,-0.3632688915
+2015,"hnd","Honduras","na","North America",90,-0.5247793035
+2015,"mex","Mexico","na","North America",23,1.1219796273
+2015,"nic","Nicaragua","na","North America",112,-1.0681099004
+2015,"pan","Panama","na","North America",54,0.2682443298
+2015,"slv","El Salvador","na","North America",72,-0.1625503484
+2015,"usa","United States","na","North America",9,1.5637716179
+2015,"aus","Australia","oc","Oceania",67,-0.0722606124
+2015,"nzl","New Zealand","oc","Oceania",40,0.5118767345
+2015,"png","Papua New Guinea","oc","Oceania",130,-1.8339982652
+2015,"arg","Argentina","sa","South America",48,0.3966496139
+2015,"bol","Bolivia","sa","South America",101,-0.7843914071
+2015,"bra","Brazil","sa","South America",37,0.6231971121
+2015,"chl","Chile","sa","South America",65,-0.0146206928
+2015,"col","Colombia","sa","South America",57,0.1849583767
+2015,"ecu","Ecuador","sa","South America",96,-0.6554605025
+2015,"per","Peru","sa","South America",88,-0.5148400737
+2015,"pry","Paraguay","sa","South America",87,-0.5085958795
+2015,"ury","Uruguay","sa","South America",56,0.217756464
+2015,"ven","Venezuela","sa","South America",82,-0.4394977343
+2016,"ago","Angola","af","Africa",121,-1.4592120768
+2016,"ben","Benin","af","Africa",78,-0.4427681259
+2016,"bfa","Burkina Faso","af","Africa",117,-1.3202076626
+2016,"bwa","Botswana","af","Africa",82,-0.4978725102
+2016,"civ","Cote d'Ivoire","af","Africa",104,-0.9695783316
+2016,"cmr","Cameroon","af","Africa",99,-0.8848691759
+2016,"cod","Democratic Republic of the Congo","af","Africa",124,-1.599190443
+2016,"cog","Republic of the Congo","af","Africa",112,-1.1683224023
+2016,"dza","Algeria","af","Africa",105,-0.976450927
+2016,"egy","Egypt","af","Africa",68,-0.1349847428
+2016,"eth","Ethiopia","af","Africa",108,-1.0144512723
+2016,"gab","Gabon","af","Africa",83,-0.5470443358
+2016,"gha","Ghana","af","Africa",110,-1.0571645098
+2016,"gin","Guinea","af","Africa",125,-1.6055032327
+2016,"ken","Kenya","af","Africa",85,-0.5536554441
+2016,"lby","Libya","af","Africa",100,-0.8986337368
+2016,"mar","Morocco","af","Africa",92,-0.6982055739
+2016,"mdg","Madagascar","af","Africa",118,-1.3852240191
+2016,"mli","Mali","af","Africa",106,-0.9870917735
+2016,"moz","Mozambique","af","Africa",115,-1.2450201374
+2016,"mrt","Mauritania","af","Africa",101,-0.9013754736
+2016,"nam","Namibia","af","Africa",80,-0.4783131864
+2016,"nga","Nigeria","af","Africa",122,-1.4932693926
+2016,"sdn","Sudan","af","Africa",116,-1.2993093516
+2016,"sen","Senegal","af","Africa",79,-0.4644262082
+2016,"ssd","South Sudan","af","Africa",128,-2.1039458083
+2016,"tcd","Chad","af","Africa",126,-1.6203585971
+2016,"tgo","Togo","af","Africa",84,-0.5480843656
+2016,"tun","Tunisia","af","Africa",63,-0.0190690755
+2016,"tza","Tanzania","af","Africa",109,-1.0570785493
+2016,"uga","Uganda","af","Africa",76,-0.3916975127
+2016,"zaf","South Africa","af","Africa",53,0.2527570236
+2016,"zmb","Zambia","af","Africa",93,-0.6998109766
+2016,"zwe","Zimbabwe","af","Africa",96,-0.7412897251
+2016,"are","United Arab Emirates","as","Asia",54,0.2367676398
+2016,"arm","Armenia","as","Asia",62,0.0068359469
+2016,"aze","Azerbaijan","as","Asia",81,-0.4867314997
+2016,"bgd","Bangladesh","as","Asia",119,-1.4259651122
+2016,"chn","China","as","Asia",31,0.8294411078
+2016,"geo","Georgia","as","Asia",66,-0.0962490241
+2016,"hkg","Hong Kong","as","Asia",32,0.8129048136
+2016,"idn","Indonesia","as","Asia",70,-0.1871588209
+2016,"ind","India","as","Asia",46,0.3877922658
+2016,"irn","Iran","as","Asia",59,0.0693338485
+2016,"irq","Iraq","as","Asia",120,-1.449440573
+2016,"isr","Israel","as","Asia",20,1.2122362507
+2016,"jor","Jordan","as","Asia",61,0.014379512
+2016,"jpn","Japan","as","Asia",1,2.1224446223
+2016,"kaz","Kazakhstan","as","Asia",60,0.0379995919
+2016,"khm","Cambodia","as","Asia",113,-1.1686384906
+2016,"kor","South Korea","as","Asia",5,1.7730297951
+2016,"kwt","Kuwait","as","Asia",51,0.3042309424
+2016,"lao","Laos","as","Asia",111,-1.16340468
+2016,"lbn","Lebanon","as","Asia",50,0.3394031067
+2016,"lka","Sri Lanka","as","Asia",94,-0.7155344956
+2016,"mmr","Burma","as","Asia",123,-1.5266570757
+2016,"mng","Mongolia","as","Asia",95,-0.7263829102
+2016,"mys","Malaysia","as","Asia",25,1.0060507271
+2016,"omn","Oman","as","Asia",67,-0.1229068888
+2016,"pak","Pakistan","as","Asia",97,-0.8151941661
+2016,"phl","Philippines","as","Asia",49,0.343445587
+2016,"prk","North Korea","as","Asia",75,-0.3847911245
+2016,"qat","Qatar","as","Asia",58,0.1244355479
+2016,"sau","Saudi Arabia","as","Asia",30,0.830027579
+2016,"sgp","Singapore","as","Asia",7,1.6109608704
+2016,"tha","Thailand","as","Asia",29,0.8569133012
+2016,"tkm","Turkmenistan","as","Asia",107,-1.0134957126
+2016,"tur","Turkey","as","Asia",43,0.4450323646
+2016,"twn","Chinese Taipei","as","Asia",4,1.8202095855
+2016,"uzb","Uzbekistan","as","Asia",88,-0.6080920517
+2016,"vnm","Vietnam","as","Asia",74,-0.3251249238
+2016,"yem","Yemen","as","Asia",98,-0.8792721914
+2016,"alb","Albania","eu","Europe",91,-0.6646210717
+2016,"aut","Austria","eu","Europe",10,1.5393833272
+2016,"bel","Belgium","eu","Europe",16,1.3599254402
+2016,"bgr","Bulgaria","eu","Europe",42,0.4520586708
+2016,"bih","Bosnia and Herzegovina","eu","Europe",41,0.4930195009
+2016,"blr","Belarus","eu","Europe",34,0.7790828927
+2016,"che","Switzerland","eu","Europe",2,1.9402206944
+2016,"cze","Czechia","eu","Europe",8,1.6033219696
+2016,"deu","Germany","eu","Europe",3,1.889485341
+2016,"dnk","Denmark","eu","Europe",22,1.1631030328
+2016,"esp","Spain","eu","Europe",27,0.8759764318
+2016,"fin","Finland","eu","Europe",11,1.5144247783
+2016,"fra","France","eu","Europe",15,1.3855850118
+2016,"gbr","United Kingdom","eu","Europe",12,1.5034247966
+2016,"grc","Greece","eu","Europe",48,0.3477225769
+2016,"hrv","Croatia","eu","Europe",35,0.6918922189
+2016,"hun","Hungary","eu","Europe",14,1.4345236505
+2016,"irl","Ireland","eu","Europe",19,1.2872152418
+2016,"ita","Italy","eu","Europe",18,1.2930918722
+2016,"ltu","Lithuania","eu","Europe",36,0.6653326224
+2016,"mda","Moldova","eu","Europe",73,-0.2760969768
+2016,"nld","Netherlands","eu","Europe",21,1.1926829777
+2016,"nor","Norway","eu","Europe",28,0.8662104294
+2016,"pol","Poland","eu","Europe",24,1.1274584103
+2016,"prt","Portugal","eu","Europe",44,0.4317639393
+2016,"rou","Romania","eu","Europe",33,0.8110467337
+2016,"rus","Russia","eu","Europe",40,0.5121888343
+2016,"srb","Serbia","eu","Europe",37,0.5908837826
+2016,"svk","Slovakia","eu","Europe",17,1.2980868573
+2016,"svn","Slovenia","eu","Europe",13,1.4873480199
+2016,"swe","Sweden","eu","Europe",6,1.66098529
+2016,"ukr","Ukraine","eu","Europe",38,0.5638943504
+2016,"can","Canada","na","North America",26,0.924813211
+2016,"cri","Costa Rica","na","North America",47,0.3653382114
+2016,"cub","Cuba","na","North America",69,-0.1397938453
+2016,"dom","Dominican Republic","na","North America",72,-0.23228568
+2016,"gtm","Guatemala","na","North America",77,-0.4300191531
+2016,"hnd","Honduras","na","North America",86,-0.5662752038
+2016,"mex","Mexico","na","North America",23,1.1375934807
+2016,"nic","Nicaragua","na","North America",114,-1.2121801756
+2016,"pan","Panama","na","North America",55,0.1973998533
+2016,"slv","El Salvador","na","North America",71,-0.215745113
+2016,"usa","United States","na","North America",9,1.5974365194
+2016,"aus","Australia","oc","Oceania",64,-0.0865359665
+2016,"nzl","New Zealand","oc","Oceania",45,0.3930730494
+2016,"png","Papua New Guinea","oc","Oceania",127,-1.9710006662
+2016,"arg","Argentina","sa","South America",52,0.304037266
+2016,"bol","Bolivia","sa","South America",102,-0.9133802057
+2016,"bra","Brazil","sa","South America",39,0.5346780795
+2016,"chl","Chile","sa","South America",65,-0.0923916509
+2016,"col","Colombia","sa","South America",57,0.1251698597
+2016,"ecu","Ecuador","sa","South America",103,-0.9464016365
+2016,"per","Peru","sa","South America",89,-0.6306122525
+2016,"pry","Paraguay","sa","South America",90,-0.6470513798
+2016,"ury","Uruguay","sa","South America",56,0.1832983191
+2016,"ven","Venezuela","sa","South America",87,-0.5779001998
+2017,"ago","Angola","af","Africa",122,-1.4383360531
+2017,"bfa","Burkina Faso","af","Africa",124,-1.5312316528
+2017,"bwa","Botswana","af","Africa",77,-0.4095352283
+2017,"civ","Cote d'Ivoire","af","Africa",105,-0.9847476562
+2017,"cmr","Cameroon","af","Africa",99,-0.8622954195
+2017,"cod","Democratic Republic of the Congo","af","Africa",121,-1.4339767303
+2017,"cog","Republic of the Congo","af","Africa",106,-0.9873669292
+2017,"dza","Algeria","af","Africa",101,-0.8784890376
+2017,"egy","Egypt","af","Africa",65,-0.1113081933
+2017,"eth","Ethiopia","af","Africa",103,-0.9331546452
+2017,"gab","Gabon","af","Africa",80,-0.4872358773
+2017,"gha","Ghana","af","Africa",110,-1.0881227063
+2017,"gin","Guinea","af","Africa",123,-1.5270830105
+2017,"ken","Kenya","af","Africa",84,-0.5665841837
+2017,"lby","Libya","af","Africa",94,-0.7164113662
+2017,"mar","Morocco","af","Africa",93,-0.7020156204
+2017,"mdg","Madagascar","af","Africa",117,-1.3868459041
+2017,"mli","Mali","af","Africa",97,-0.8160741883
+2017,"moz","Mozambique","af","Africa",115,-1.3002680268
+2017,"mrt","Mauritania","af","Africa",107,-0.9897276629
+2017,"nam","Namibia","af","Africa",88,-0.6153851061
+2017,"nga","Nigeria","af","Africa",126,-1.6690795558
+2017,"sdn","Sudan","af","Africa",120,-1.4313230618
+2017,"sen","Senegal","af","Africa",82,-0.5132391628
+2017,"ssd","South Sudan","af","Africa",128,-2.1268761561
+2017,"tcd","Chad","af","Africa",125,-1.6428668546
+2017,"tgo","Togo","af","Africa",91,-0.6693378917
+2017,"tun","Tunisia","af","Africa",62,-0.0148868273
+2017,"tza","Tanzania","af","Africa",113,-1.1549842597
+2017,"uga","Uganda","af","Africa",81,-0.5089127389
+2017,"zaf","South Africa","af","Africa",51,0.2318756994
+2017,"zmb","Zambia","af","Africa",100,-0.8647936686
+2017,"zwe","Zimbabwe","af","Africa",96,-0.785810534
+2017,"are","United Arab Emirates","as","Asia",52,0.2295114801
+2017,"arm","Armenia","as","Asia",71,-0.1635494077
+2017,"aze","Azerbaijan","as","Asia",79,-0.4592013637
+2017,"bgd","Bangladesh","as","Asia",119,-1.4258887132
+2017,"chn","China","as","Asia",31,0.8528389791
+2017,"geo","Georgia","as","Asia",64,-0.0536286185
+2017,"hkg","Hong Kong","as","Asia",29,0.8678182908
+2017,"idn","Indonesia","as","Asia",72,-0.1923265973
+2017,"ind","India","as","Asia",45,0.4280734585
+2017,"irn","Iran","as","Asia",58,0.104425506
+2017,"irq","Iraq","as","Asia",116,-1.3236992849
+2017,"isr","Israel","as","Asia",20,1.2124332377
+2017,"jor","Jordan","as","Asia",63,-0.018714546
+2017,"jpn","Japan","as","Asia",1,2.1480442909
+2017,"kaz","Kazakhstan","as","Asia",66,-0.11152535
+2017,"kgz","Kyrgyzstan","as","Asia",61,0.0118598387
+2017,"khm","Cambodia","as","Asia",111,-1.0911672778
+2017,"kor","South Korea","as","Asia",5,1.8098825796
+2017,"kwt","Kuwait","as","Asia",57,0.1436098702
+2017,"lao","Laos","as","Asia",112,-1.1432341407
+2017,"lbn","Lebanon","as","Asia",49,0.3071410218
+2017,"lka","Sri Lanka","as","Asia",90,-0.6623211391
+2017,"mmr","Burma","as","Asia",118,-1.3928238455
+2017,"mng","Mongolia","as","Asia",104,-0.9568128415
+2017,"mys","Malaysia","as","Asia",25,1.0066950631
+2017,"omn","Oman","as","Asia",68,-0.1234157417
+2017,"pak","Pakistan","as","Asia",98,-0.828269867
+2017,"phl","Philippines","as","Asia",44,0.4411072686
+2017,"prk","North Korea","as","Asia",78,-0.4168397112
+2017,"qat","Qatar","as","Asia",59,0.070454354
+2017,"sau","Saudi Arabia","as","Asia",33,0.772173356
+2017,"sgp","Singapore","as","Asia",8,1.6171762689
+2017,"tha","Thailand","as","Asia",28,0.8716086583
+2017,"tkm","Turkmenistan","as","Asia",109,-1.0859269806
+2017,"tur","Turkey","as","Asia",42,0.46596568
+2017,"twn","Chinese Taipei","as","Asia",4,1.8843470204
+2017,"uzb","Uzbekistan","as","Asia",87,-0.6071298613
+2017,"vnm","Vietnam","as","Asia",74,-0.275793721
+2017,"yem","Yemen","as","Asia",108,-1.0228449056
+2017,"alb","Albania","eu","Europe",85,-0.5890725797
+2017,"aut","Austria","eu","Europe",10,1.5397975213
+2017,"bel","Belgium","eu","Europe",16,1.3284342405
+2017,"bgr","Bulgaria","eu","Europe",41,0.4705530428
+2017,"bih","Bosnia and Herzegovina","eu","Europe",38,0.4980216424
+2017,"blr","Belarus","eu","Europe",32,0.7801360013
+2017,"che","Switzerland","eu","Europe",2,1.9517444656
+2017,"cze","Czechia","eu","Europe",7,1.6214755665
+2017,"deu","Germany","eu","Europe",3,1.9007882176
+2017,"dnk","Denmark","eu","Europe",22,1.1418843924
+2017,"esp","Spain","eu","Europe",30,0.8636525481
+2017,"fin","Finland","eu","Europe",11,1.514743954
+2017,"fra","France","eu","Europe",15,1.3953077215
+2017,"gbr","United Kingdom","eu","Europe",13,1.4846049131
+2017,"grc","Greece","eu","Europe",47,0.3460207986
+2017,"hrv","Croatia","eu","Europe",35,0.7121623283
+2017,"hun","Hungary","eu","Europe",14,1.4558871126
+2017,"irl","Ireland","eu","Europe",19,1.293054335
+2017,"ita","Italy","eu","Europe",18,1.2991630408
+2017,"ltu","Lithuania","eu","Europe",36,0.6875027239
+2017,"mda","Moldova","eu","Europe",75,-0.2820562335
+2017,"nld","Netherlands","eu","Europe",21,1.1647247911
+2017,"nor","Norway","eu","Europe",34,0.7339566703
+2017,"pol","Poland","eu","Europe",24,1.1406969134
+2017,"prt","Portugal","eu","Europe",46,0.4241275138
+2017,"rou","Romania","eu","Europe",27,0.8993643098
+2017,"rus","Russia","eu","Europe",43,0.4449715962
+2017,"srb","Serbia","eu","Europe",37,0.6085264379
+2017,"svk","Slovakia","eu","Europe",17,1.3186778373
+2017,"svn","Slovenia","eu","Europe",12,1.4934979074
+2017,"swe","Sweden","eu","Europe",6,1.6340919627
+2017,"ukr","Ukraine","eu","Europe",40,0.484255827
+2017,"can","Canada","na","North America",26,0.9007136602
+2017,"cri","Costa Rica","na","North America",50,0.3060378019
+2017,"cub","Cuba","na","North America",60,0.045776559
+2017,"dom","Dominican Republic","na","North America",73,-0.2192864199
+2017,"gtm","Guatemala","na","North America",76,-0.4090529254
+2017,"hnd","Honduras","na","North America",92,-0.6882379895
+2017,"mex","Mexico","na","North America",23,1.1415035633
+2017,"nic","Nicaragua","na","North America",114,-1.1995321432
+2017,"pan","Panama","na","North America",56,0.166496223
+2017,"slv","El Salvador","na","North America",67,-0.1139481138
+2017,"usa","United States","na","North America",9,1.569945739
+2017,"aus","Australia","oc","Oceania",69,-0.1431964288
+2017,"nzl","New Zealand","oc","Oceania",48,0.3345294345
+2017,"png","Papua New Guinea","oc","Oceania",127,-1.946006457
+2017,"arg","Argentina","sa","South America",53,0.2160717422
+2017,"bol","Bolivia","sa","South America",95,-0.7320177332
+2017,"bra","Brazil","sa","South America",39,0.4945752995
+2017,"chl","Chile","sa","South America",70,-0.15446134
+2017,"col","Colombia","sa","South America",54,0.1999479686
+2017,"ecu","Ecuador","sa","South America",102,-0.8928924841
+2017,"per","Peru","sa","South America",89,-0.65614274
+2017,"pry","Paraguay","sa","South America",86,-0.599093089
+2017,"ury","Uruguay","sa","South America",55,0.1793955892
+2017,"ven","Venezuela","sa","South America",83,-0.5354453351
+2018,"ago","Angola","af","Africa",124,-1.5073398749
+2018,"ben","Benin","af","Africa",93,-0.6557676027
+2018,"bfa","Burkina Faso","af","Africa",125,-1.5376525785
+2018,"bwa","Botswana","af","Africa",83,-0.5282952841
+2018,"civ","Cote d'Ivoire","af","Africa",110,-1.016653881
+2018,"cmr","Cameroon","af","Africa",114,-1.1200491665
+2018,"cod","Democratic Republic of the Congo","af","Africa",122,-1.4041013367
+2018,"cog","Republic of the Congo","af","Africa",102,-0.8289384999
+2018,"dza","Algeria","af","Africa",107,-0.9480481301
+2018,"egy","Egypt","af","Africa",66,-0.1124430535
+2018,"eth","Ethiopia","af","Africa",98,-0.7525162512
+2018,"gab","Gabon","af","Africa",82,-0.5257075068
+2018,"gha","Ghana","af","Africa",120,-1.3013807366
+2018,"gin","Guinea","af","Africa",126,-1.6900403647
+2018,"ken","Kenya","af","Africa",81,-0.5131004634
+2018,"lby","Libya","af","Africa",108,-0.9901212779
+2018,"mar","Morocco","af","Africa",96,-0.672227345
+2018,"mdg","Madagascar","af","Africa",121,-1.3440265125
+2018,"mli","Mali","af","Africa",103,-0.8486245193
+2018,"moz","Mozambique","af","Africa",117,-1.2468984267
+2018,"mrt","Mauritania","af","Africa",113,-1.0578558426
+2018,"nam","Namibia","af","Africa",91,-0.6405695872
+2018,"nga","Nigeria","af","Africa",127,-1.7407868908
+2018,"sdn","Sudan","af","Africa",123,-1.4159701735
+2018,"sen","Senegal","af","Africa",95,-0.6665841581
+2018,"ssd","South Sudan","af","Africa",130,-2.074477798
+2018,"tcd","Chad","af","Africa",128,-1.9232892725
+2018,"tgo","Togo","af","Africa",97,-0.6784906194
+2018,"tun","Tunisia","af","Africa",58,0.0613692216
+2018,"tza","Tanzania","af","Africa",94,-0.6588637532
+2018,"uga","Uganda","af","Africa",92,-0.6501552583
+2018,"zaf","South Africa","af","Africa",56,0.148099113
+2018,"zmb","Zambia","af","Africa",109,-1.0165721467
+2018,"zwe","Zimbabwe","af","Africa",101,-0.7931143552
+2018,"are","United Arab Emirates","as","Asia",52,0.1894039707
+2018,"arm","Armenia","as","Asia",77,-0.3099254439
+2018,"aze","Azerbaijan","as","Asia",84,-0.5667225685
+2018,"bgd","Bangladesh","as","Asia",118,-1.2935221595
+2018,"chn","China","as","Asia",28,0.9288596256
+2018,"geo","Georgia","as","Asia",61,-0.0110760399
+2018,"hkg","Hong Kong","as","Asia",26,0.9746178283
+2018,"idn","Indonesia","as","Asia",67,-0.1227585172
+2018,"ind","India","as","Asia",42,0.498215885
+2018,"irn","Iran","as","Asia",60,0.0543861213
+2018,"irq","Iraq","as","Asia",88,-0.6112791325
+2018,"isr","Israel","as","Asia",20,1.2153813486
+2018,"jor","Jordan","as","Asia",62,-0.0292487608
+2018,"jpn","Japan","as","Asia",1,2.1799488025
+2018,"kaz","Kazakhstan","as","Asia",73,-0.2082772638
+2018,"kgz","Kyrgyzstan","as","Asia",64,-0.0902058789
+2018,"khm","Cambodia","as","Asia",112,-1.0543281722
+2018,"kor","South Korea","as","Asia",5,1.8737720766
+2018,"kwt","Kuwait","as","Asia",53,0.1774774161
+2018,"lao","Laos","as","Asia",111,-1.0398996934
+2018,"lbn","Lebanon","as","Asia",49,0.2677332347
+2018,"lka","Sri Lanka","as","Asia",87,-0.6058808114
+2018,"mmr","Burma","as","Asia",116,-1.2007374037
+2018,"mng","Mongolia","as","Asia",105,-0.8983621987
+2018,"mys","Malaysia","as","Asia",25,1.0365483306
+2018,"omn","Oman","as","Asia",76,-0.2518142808
+2018,"pak","Pakistan","as","Asia",100,-0.7695663824
+2018,"phl","Philippines","as","Asia",39,0.5307441517
+2018,"prk","North Korea","as","Asia",71,-0.2055579642
+2018,"qat","Qatar","as","Asia",63,-0.0346303698
+2018,"sau","Saudi Arabia","as","Asia",31,0.8652061144
+2018,"sgp","Singapore","as","Asia",6,1.6886867174
+2018,"tha","Thailand","as","Asia",30,0.8997826585
+2018,"tkm","Turkmenistan","as","Asia",106,-0.9153925282
+2018,"tur","Turkey","as","Asia",43,0.4903025013
+2018,"twn","Chinese Taipei","as","Asia",3,1.9025327924
+2018,"uzb","Uzbekistan","as","Asia",80,-0.5038035813
+2018,"vnm","Vietnam","as","Asia",69,-0.1669284454
+2018,"yem","Yemen","as","Asia",119,-1.2993548809
+2018,"alb","Albania","eu","Europe",79,-0.4997051286
+2018,"aut","Austria","eu","Europe",10,1.5323242812
+2018,"bel","Belgium","eu","Europe",18,1.3002712441
+2018,"bgr","Bulgaria","eu","Europe",40,0.5061873863
+2018,"bih","Bosnia and Herzegovina","eu","Europe",38,0.5551723852
+2018,"blr","Belarus","eu","Europe",33,0.7754230024
+2018,"che","Switzerland","eu","Europe",2,2.0091937809
+2018,"cze","Czechia","eu","Europe",8,1.6185626126
+2018,"deu","Germany","eu","Europe",4,1.8902642704
+2018,"dnk","Denmark","eu","Europe",23,1.1272576251
+2018,"esp","Spain","eu","Europe",32,0.8566755375
+2018,"fin","Finland","eu","Europe",11,1.5088902429
+2018,"fra","France","eu","Europe",15,1.4008616839
+2018,"gbr","United Kingdom","eu","Europe",12,1.503210544
+2018,"grc","Greece","eu","Europe",48,0.3079423521
+2018,"hrv","Croatia","eu","Europe",35,0.7168003104
+2018,"hun","Hungary","eu","Europe",14,1.4649315683
+2018,"irl","Ireland","eu","Europe",17,1.3163781731
+2018,"ita","Italy","eu","Europe",19,1.2966061585
+2018,"ltu","Lithuania","eu","Europe",34,0.7466613845
+2018,"mda","Moldova","eu","Europe",75,-0.2470649846
+2018,"nld","Netherlands","eu","Europe",24,1.1253177609
+2018,"nor","Norway","eu","Europe",36,0.6993399494
+2018,"pol","Poland","eu","Europe",21,1.1716778286
+2018,"prt","Portugal","eu","Europe",46,0.461265934
+2018,"rou","Romania","eu","Europe",27,0.9470527622
+2018,"rus","Russia","eu","Europe",44,0.4759662853
+2018,"srb","Serbia","eu","Europe",37,0.6300921483
+2018,"svk","Slovakia","eu","Europe",16,1.3727605751
+2018,"svn","Slovenia","eu","Europe",13,1.4994471235
+2018,"swe","Sweden","eu","Europe",7,1.6280289654
+2018,"ukr","Ukraine","eu","Europe",41,0.5032654098
+2018,"can","Canada","na","North America",29,0.9216308516
+2018,"cri","Costa Rica","na","North America",50,0.2231641046
+2018,"cub","Cuba","na","North America",59,0.0611517475
+2018,"dom","Dominican Republic","na","North America",72,-0.2066602849
+2018,"gtm","Guatemala","na","North America",78,-0.4068558156
+2018,"hnd","Honduras","na","North America",90,-0.6365229887
+2018,"jam","Jamaica","na","North America",74,-0.2401090645
+2018,"mex","Mexico","na","North America",22,1.1388066162
+2018,"nic","Nicaragua","na","North America",115,-1.1448740374
+2018,"pan","Panama","na","North America",55,0.1580078836
+2018,"slv","El Salvador","na","North America",65,-0.0954039424
+2018,"usa","United States","na","North America",9,1.5446200037
+2018,"aus","Australia","oc","Oceania",68,-0.1397936216
+2018,"nzl","New Zealand","oc","Oceania",47,0.3629393806
+2018,"png","Papua New Guinea","oc","Oceania",129,-1.9517669595
+2018,"arg","Argentina","sa","South America",54,0.167106095
+2018,"bol","Bolivia","sa","South America",99,-0.7620930253
+2018,"bra","Brazil","sa","South America",45,0.4619312836
+2018,"chl","Chile","sa","South America",70,-0.184291422
+2018,"col","Colombia","sa","South America",51,0.2018119702
+2018,"ecu","Ecuador","sa","South America",104,-0.8787373887
+2018,"per","Peru","sa","South America",86,-0.59929201
+2018,"pry","Paraguay","sa","South America",85,-0.5923190664
+2018,"ury","Uruguay","sa","South America",57,0.0748675118
+2018,"ven","Venezuela","sa","South America",89,-0.6115097611
+2019,"ago","Angola","af","Africa",125,-1.474847677
+2019,"ben","Benin","af","Africa",91,-0.6683594771
+2019,"bfa","Burkina Faso","af","Africa",127,-1.5633675629
+2019,"bwa","Botswana","af","Africa",78,-0.414470823
+2019,"civ","Cote d'Ivoire","af","Africa",105,-0.9725460263
+2019,"cmr","Cameroon","af","Africa",112,-1.099605728
+2019,"cod","Democratic Republic of the Congo","af","Africa",120,-1.3210570486
+2019,"cog","Republic of the Congo","af","Africa",106,-0.9834431222
+2019,"dza","Algeria","af","Africa",108,-1.0436200248
+2019,"egy","Egypt","af","Africa",67,-0.1576040095
+2019,"eth","Ethiopia","af","Africa",101,-0.8837175455
+2019,"gab","Gabon","af","Africa",82,-0.5279606706
+2019,"gha","Ghana","af","Africa",117,-1.2962582542
+2019,"gin","Guinea","af","Africa",126,-1.5314208527
+2019,"ken","Kenya","af","Africa",81,-0.5105588601
+2019,"lby","Libya","af","Africa",122,-1.3918132089
+2019,"mar","Morocco","af","Africa",87,-0.5923641883
+2019,"mdg","Madagascar","af","Africa",121,-1.347149646
+2019,"mli","Mali","af","Africa",100,-0.8778042457
+2019,"moz","Mozambique","af","Africa",119,-1.3014068724
+2019,"mrt","Mauritania","af","Africa",114,-1.1938221781
+2019,"nam","Namibia","af","Africa",93,-0.722197899
+2019,"nga","Nigeria","af","Africa",128,-1.574337353
+2019,"sdn","Sudan","af","Africa",123,-1.4306367316
+2019,"sen","Senegal","af","Africa",92,-0.7203151659
+2019,"ssd","South Sudan","af","Africa",129,-2.1415781326
+2019,"tgo","Togo","af","Africa",97,-0.844729924
+2019,"tun","Tunisia","af","Africa",57,0.0699348796
+2019,"tza","Tanzania","af","Africa",90,-0.6574790085
+2019,"uga","Uganda","af","Africa",98,-0.8570071388
+2019,"zaf","South Africa","af","Africa",55,0.1357529563
+2019,"zmb","Zambia","af","Africa",103,-0.9279722424
+2019,"zwe","Zimbabwe","af","Africa",95,-0.7909474481
+2019,"afg","Afghanistan","as","Asia",110,-1.0687409352
+2019,"are","United Arab Emirates","as","Asia",52,0.2162140432
+2019,"arm","Armenia","as","Asia",76,-0.38892065
+2019,"aze","Azerbaijan","as","Asia",84,-0.5671175971
+2019,"bgd","Bangladesh","as","Asia",116,-1.2730291011
+2019,"chn","China","as","Asia",28,0.9679660524
+2019,"geo","Georgia","as","Asia",58,0.033089294
+2019,"hkg","Hong Kong","as","Asia",27,0.9709610736
+2019,"idn","Indonesia","as","Asia",62,-0.1024313929
+2019,"ind","India","as","Asia",44,0.4775459109
+2019,"irn","Iran","as","Asia",60,-0.0465455773
+2019,"irq","Iraq","as","Asia",79,-0.4378409537
+2019,"isr","Israel","as","Asia",20,1.2252600589
+2019,"jor","Jordan","as","Asia",61,-0.076605254
+2019,"jpn","Japan","as","Asia",1,2.2032963073
+2019,"kaz","Kazakhstan","as","Asia",73,-0.2430033825
+2019,"kgz","Kyrgyzstan","as","Asia",70,-0.2149079652
+2019,"khm","Cambodia","as","Asia",109,-1.0501179064
+2019,"kor","South Korea","as","Asia",5,1.8757526723
+2019,"kwt","Kuwait","as","Asia",54,0.1405056405
+2019,"lao","Laos","as","Asia",107,-1.0121344272
+2019,"lbn","Lebanon","as","Asia",49,0.2670086729
+2019,"lka","Sri Lanka","as","Asia",85,-0.5701355012
+2019,"mmr","Burma","as","Asia",115,-1.2188336692
+2019,"mng","Mongolia","as","Asia",113,-1.1349001833
+2019,"mys","Malaysia","as","Asia",25,1.0393538002
+2019,"omn","Oman","as","Asia",74,-0.2452110224
+2019,"pak","Pakistan","as","Asia",94,-0.754917546
+2019,"phl","Philippines","as","Asia",39,0.5495999002
+2019,"qat","Qatar","as","Asia",68,-0.171369524
+2019,"sau","Saudi Arabia","as","Asia",30,0.9088575265
+2019,"sgp","Singapore","as","Asia",6,1.7199495213
+2019,"tha","Thailand","as","Asia",31,0.9046304201
+2019,"tkm","Turkmenistan","as","Asia",99,-0.8742623766
+2019,"tur","Turkey","as","Asia",40,0.5272707878
+2019,"twn","Chinese Taipei","as","Asia",3,1.9363907059
+2019,"uzb","Uzbekistan","as","Asia",83,-0.5386848764
+2019,"vnm","Vietnam","as","Asia",66,-0.1424538142
+2019,"yem","Yemen","as","Asia",118,-1.2978666376
+2019,"alb","Albania","eu","Europe",80,-0.4423441013
+2019,"aut","Austria","eu","Europe",9,1.5684529688
+2019,"bel","Belgium","eu","Europe",19,1.2913585848
+2019,"bgr","Bulgaria","eu","Europe",42,0.4896150085
+2019,"bih","Bosnia and Herzegovina","eu","Europe",38,0.5600899619
+2019,"blr","Belarus","eu","Europe",34,0.7844166554
+2019,"che","Switzerland","eu","Europe",2,1.9956468941
+2019,"cze","Czechia","eu","Europe",7,1.6599995197
+2019,"deu","Germany","eu","Europe",4,1.8915277443
+2019,"dnk","Denmark","eu","Europe",23,1.1092837934
+2019,"esp","Spain","eu","Europe",32,0.8738283615
+2019,"fin","Finland","eu","Europe",11,1.5169156371
+2019,"fra","France","eu","Europe",15,1.4196359335
+2019,"gbr","United Kingdom","eu","Europe",12,1.5080746254
+2019,"grc","Greece","eu","Europe",48,0.3170579382
+2019,"hrv","Croatia","eu","Europe",35,0.7367702327
+2019,"hun","Hungary","eu","Europe",14,1.4394885037
+2019,"irl","Ireland","eu","Europe",17,1.3237183293
+2019,"ita","Italy","eu","Europe",18,1.3189690397
+2019,"ltu","Lithuania","eu","Europe",33,0.7899748916
+2019,"mda","Moldova","eu","Europe",75,-0.2559137414
+2019,"nld","Netherlands","eu","Europe",24,1.1067795705
+2019,"nor","Norway","eu","Europe",36,0.6684764084
+2019,"pol","Poland","eu","Europe",21,1.172127102
+2019,"prt","Portugal","eu","Europe",45,0.456234753
+2019,"rou","Romania","eu","Europe",26,1.0149952643
+2019,"rus","Russia","eu","Europe",43,0.4845518745
+2019,"srb","Serbia","eu","Europe",37,0.6351736435
+2019,"svk","Slovakia","eu","Europe",16,1.382496513
+2019,"svn","Slovenia","eu","Europe",13,1.5037655956
+2019,"swe","Sweden","eu","Europe",8,1.6167081229
+2019,"ukr","Ukraine","eu","Europe",41,0.5027267377
+2019,"can","Canada","na","North America",29,0.9498830981
+2019,"cri","Costa Rica","na","North America",50,0.240992143
+2019,"cub","Cuba","na","North America",63,-0.1053818403
+2019,"dom","Dominican Republic","na","North America",65,-0.1423213893
+2019,"gtm","Guatemala","na","North America",77,-0.4022390109
+2019,"hnd","Honduras","na","North America",88,-0.6480502919
+2019,"jam","Jamaica","na","North America",72,-0.241840661
+2019,"mex","Mexico","na","North America",22,1.1222577312
+2019,"nic","Nicaragua","na","North America",111,-1.084434908
+2019,"pan","Panama","na","North America",56,0.092480303
+2019,"slv","El Salvador","na","North America",64,-0.1168625246
+2019,"usa","United States","na","North America",10,1.5628266646
+2019,"aus","Australia","oc","Oceania",71,-0.2379353877
+2019,"nzl","New Zealand","oc","Oceania",47,0.4041093551
+2019,"png","Papua New Guinea","oc","Oceania",124,-1.4611828991
+2019,"arg","Argentina","sa","South America",53,0.1592783203
+2019,"bol","Bolivia","sa","South America",102,-0.9134940449
+2019,"bra","Brazil","sa","South America",46,0.4241935613
+2019,"chl","Chile","sa","South America",69,-0.2144599242
+2019,"col","Colombia","sa","South America",51,0.2171545084
+2019,"ecu","Ecuador","sa","South America",104,-0.947461524
+2019,"per","Peru","sa","South America",89,-0.6544346895
+2019,"pry","Paraguay","sa","South America",86,-0.5766191093
+2019,"ury","Uruguay","sa","South America",59,0.0149176812
+2019,"ven","Venezuela","sa","South America",96,-0.8008883935
+2020,"ago","Angola","af","Africa",124,-1.3817616096
+2020,"ben","Benin","af","Africa",86,-0.6004311866
+2020,"bfa","Burkina Faso","af","Africa",128,-1.6038825763
+2020,"bwa","Botswana","af","Africa",84,-0.5266586311
+2020,"civ","Cote d'Ivoire","af","Africa",106,-1.0004141968
+2020,"cmr","Cameroon","af","Africa",109,-1.0933850764
+2020,"cod","Democratic Republic of the Congo","af","Africa",123,-1.3372925948
+2020,"cog","Republic of the Congo","af","Africa",104,-0.9712063033
+2020,"dza","Algeria","af","Africa",121,-1.2933742735
+2020,"egy","Egypt","af","Africa",65,-0.1459066322
+2020,"eth","Ethiopia","af","Africa",99,-0.8880946848
+2020,"gab","Gabon","af","Africa",87,-0.6178647886
+2020,"gha","Ghana","af","Africa",118,-1.2475190251
+2020,"gin","Guinea","af","Africa",130,-1.7816293885
+2020,"ken","Kenya","af","Africa",81,-0.5063498922
+2020,"lby","Libya","af","Africa",125,-1.3994434199
+2020,"mar","Morocco","af","Africa",83,-0.5186288422
+2020,"mdg","Madagascar","af","Africa",119,-1.279931335
+2020,"mli","Mali","af","Africa",107,-1.0163867562
+2020,"moz","Mozambique","af","Africa",115,-1.2064982517
+2020,"mrt","Mauritania","af","Africa",122,-1.3330181084
+2020,"nam","Namibia","af","Africa",96,-0.7444728147
+2020,"ner","Niger","af","Africa",93,-0.7096736869
+2020,"nga","Nigeria","af","Africa",129,-1.624054302
+2020,"sdn","Sudan","af","Africa",120,-1.2809224745
+2020,"sen","Senegal","af","Africa",90,-0.6861511338
+2020,"tcd","Chad","af","Africa",127,-1.5719052836
+2020,"tgo","Togo","af","Africa",97,-0.7583732722
+2020,"tun","Tunisia","af","Africa",57,0.0836126358
+2020,"tza","Tanzania","af","Africa",88,-0.667361896
+2020,"uga","Uganda","af","Africa",103,-0.9692776272
+2020,"zaf","South Africa","af","Africa",54,0.1200440517
+2020,"zmb","Zambia","af","Africa",98,-0.771218798
+2020,"zwe","Zimbabwe","af","Africa",100,-0.8882679832
+2020,"afg","Afghanistan","as","Asia",111,-1.1056381834
+2020,"are","United Arab Emirates","as","Asia",51,0.2480198281
+2020,"arm","Armenia","as","Asia",75,-0.318735574
+2020,"aze","Azerbaijan","as","Asia",78,-0.4164018633
+2020,"bgd","Bangladesh","as","Asia",116,-1.2291256426
+2020,"chn","China","as","Asia",27,1.0144460492
+2020,"geo","Georgia","as","Asia",59,-0.0276100521
+2020,"hkg","Hong Kong","as","Asia",28,0.9876664285
+2020,"idn","Indonesia","as","Asia",60,-0.0403727485
+2020,"ind","India","as","Asia",42,0.5246661615
+2020,"irn","Iran","as","Asia",61,-0.0423407534
+2020,"irq","Iraq","as","Asia",95,-0.7421477887
+2020,"isr","Israel","as","Asia",20,1.2317118564
+2020,"jor","Jordan","as","Asia",63,-0.0855692195
+2020,"jpn","Japan","as","Asia",1,2.2347653204
+2020,"kaz","Kazakhstan","as","Asia",72,-0.2639936338
+2020,"kgz","Kyrgyzstan","as","Asia",71,-0.2256360182
+2020,"khm","Cambodia","as","Asia",108,-1.0619063031
+2020,"kor","South Korea","as","Asia",5,1.902750457
+2020,"kwt","Kuwait","as","Asia",55,0.1153015345
+2020,"lao","Laos","as","Asia",102,-0.9663130414
+2020,"lbn","Lebanon","as","Asia",49,0.3022714321
+2020,"lka","Sri Lanka","as","Asia",82,-0.518054573
+2020,"mmr","Burma","as","Asia",114,-1.2042480354
+2020,"mng","Mongolia","as","Asia",113,-1.1292401591
+2020,"mys","Malaysia","as","Asia",26,1.033194177
+2020,"omn","Oman","as","Asia",70,-0.2072089487
+2020,"pak","Pakistan","as","Asia",94,-0.7269641486
+2020,"phl","Philippines","as","Asia",38,0.6042221232
+2020,"qat","Qatar","as","Asia",62,-0.0844155986
+2020,"sau","Saudi Arabia","as","Asia",30,0.9005134028
+2020,"sgp","Singapore","as","Asia",6,1.7354076985
+2020,"tha","Thailand","as","Asia",31,0.8913167351
+2020,"tkm","Turkmenistan","as","Asia",91,-0.6968647185
+2020,"tur","Turkey","as","Asia",41,0.544757973
+2020,"twn","Chinese Taipei","as","Asia",3,1.9883505016
+2020,"uzb","Uzbekistan","as","Asia",85,-0.5522706454
+2020,"vnm","Vietnam","as","Asia",64,-0.1055373101
+2020,"yem","Yemen","as","Asia",117,-1.2308532279
+2020,"alb","Albania","eu","Europe",77,-0.3820149423
+2020,"aut","Austria","eu","Europe",9,1.5741522039
+2020,"bel","Belgium","eu","Europe",18,1.3017344481
+2020,"bgr","Bulgaria","eu","Europe",40,0.5583182723
+2020,"bih","Bosnia and Herzegovina","eu","Europe",39,0.5750657157
+2020,"blr","Belarus","eu","Europe",34,0.7779839961
+2020,"che","Switzerland","eu","Europe",2,2.0036629835
+2020,"cze","Czechia","eu","Europe",7,1.6675689955
+2020,"deu","Germany","eu","Europe",4,1.9074253465
+2020,"dnk","Denmark","eu","Europe",23,1.12359666
+2020,"esp","Spain","eu","Europe",32,0.8492417038
+2020,"fin","Finland","eu","Europe",11,1.5190010586
+2020,"fra","France","eu","Europe",15,1.4060366528
+2020,"gbr","United Kingdom","eu","Europe",12,1.5075053356
+2020,"grc","Greece","eu","Europe",48,0.3207403472
+2020,"hrv","Croatia","eu","Europe",35,0.7441231534
+2020,"hun","Hungary","eu","Europe",14,1.4663412742
+2020,"irl","Ireland","eu","Europe",19,1.2938784994
+2020,"ita","Italy","eu","Europe",17,1.3190526902
+2020,"ltu","Lithuania","eu","Europe",33,0.782673884
+2020,"mda","Moldova","eu","Europe",69,-0.1884840161
+2020,"nld","Netherlands","eu","Europe",24,1.0849127276
+2020,"nor","Norway","eu","Europe",37,0.6689841145
+2020,"pol","Poland","eu","Europe",21,1.1740403465
+2020,"prt","Portugal","eu","Europe",45,0.4915071522
+2020,"rou","Romania","eu","Europe",25,1.0390839335
+2020,"rus","Russia","eu","Europe",46,0.4697559087
+2020,"srb","Serbia","eu","Europe",36,0.6823064103
+2020,"svk","Slovakia","eu","Europe",16,1.3991518239
+2020,"svn","Slovenia","eu","Europe",13,1.5053422757
+2020,"swe","Sweden","eu","Europe",8,1.6528271364
+2020,"ukr","Ukraine","eu","Europe",43,0.5115082219
+2020,"can","Canada","na","North America",29,0.9190264468
+2020,"cri","Costa Rica","na","North America",50,0.280962365
+2020,"cub","Cuba","na","North America",73,-0.2742739948
+2020,"dom","Dominican Republic","na","North America",68,-0.1794231441
+2020,"gtm","Guatemala","na","North America",79,-0.4196568659
+2020,"hnd","Honduras","na","North America",89,-0.6845763183
+2020,"jam","Jamaica","na","North America",74,-0.3008618163
+2020,"mex","Mexico","na","North America",22,1.151044845
+2020,"nic","Nicaragua","na","North America",110,-1.0964860036
+2020,"pan","Panama","na","North America",52,0.1884317479
+2020,"slv","El Salvador","na","North America",66,-0.1553370348
+2020,"usa","United States","na","North America",10,1.5534861358
+2020,"aus","Australia","oc","Oceania",76,-0.3225143428
+2020,"nzl","New Zealand","oc","Oceania",47,0.4405735788
+2020,"png","Papua New Guinea","oc","Oceania",126,-1.4082307303
+2020,"arg","Argentina","sa","South America",56,0.1139211228
+2020,"bol","Bolivia","sa","South America",101,-0.9174312522
+2020,"bra","Brazil","sa","South America",44,0.5056549356
+2020,"chl","Chile","sa","South America",67,-0.1599460142
+2020,"col","Colombia","sa","South America",53,0.1831689172
+2020,"ecu","Ecuador","sa","South America",105,-0.9925018399
+2020,"per","Peru","sa","South America",92,-0.6986432831
+2020,"pry","Paraguay","sa","South America",80,-0.4816912472
+2020,"ury","Uruguay","sa","South America",58,0.0053493731
+2020,"ven","Venezuela","sa","South America",112,-1.1172832269
+2021,"ago","Angola","af","Africa",122,-1.2924555953
+2021,"ben","Benin","af","Africa",93,-0.6963178885
+2021,"bfa","Burkina Faso","af","Africa",129,-1.7422981851
+2021,"bwa","Botswana","af","Africa",89,-0.6594858919
+2021,"civ","Cote d'Ivoire","af","Africa",112,-1.0571967304
+2021,"cmr","Cameroon","af","Africa",108,-1.0159918963
+2021,"cod","Democratic Republic of the Congo","af","Africa",128,-1.6593253586
+2021,"cog","Republic of the Congo","af","Africa",117,-1.1507968734
+2021,"dza","Algeria","af","Africa",109,-1.0354389523
+2021,"egy","Egypt","af","Africa",67,-0.1033995941
+2021,"eth","Ethiopia","af","Africa",98,-0.8320064595
+2021,"gab","Gabon","af","Africa",96,-0.7203153239
+2021,"gha","Ghana","af","Africa",115,-1.1051852549
+2021,"gin","Guinea","af","Africa",130,-1.8985458384
+2021,"ken","Kenya","af","Africa",83,-0.5214129399
+2021,"lbr","Liberia","af","Africa",97,-0.7967328837
+2021,"lby","Libya","af","Africa",124,-1.340515277
+2021,"mar","Morocco","af","Africa",78,-0.3634880979
+2021,"mdg","Madagascar","af","Africa",116,-1.14410896
+2021,"mli","Mali","af","Africa",126,-1.4938109447
+2021,"moz","Mozambique","af","Africa",121,-1.2887080485
+2021,"mrt","Mauritania","af","Africa",123,-1.3143812579
+2021,"nam","Namibia","af","Africa",92,-0.6861097257
+2021,"ner","Niger","af","Africa",87,-0.6515986342
+2021,"nga","Nigeria","af","Africa",127,-1.6328551032
+2021,"sdn","Sudan","af","Africa",120,-1.2809366394
+2021,"sen","Senegal","af","Africa",84,-0.5583875167
+2021,"tcd","Chad","af","Africa",131,-1.982317694
+2021,"tgo","Togo","af","Africa",106,-0.9665384815
+2021,"tun","Tunisia","af","Africa",53,0.2010881079
+2021,"tza","Tanzania","af","Africa",119,-1.1827257519
+2021,"uga","Uganda","af","Africa",101,-0.8796673044
+2021,"zaf","South Africa","af","Africa",60,0.0442988208
+2021,"zmb","Zambia","af","Africa",100,-0.8762703759
+2021,"zwe","Zimbabwe","af","Africa",99,-0.8683283486
+2021,"afg","Afghanistan","as","Asia",113,-1.0666600134
+2021,"are","United Arab Emirates","as","Asia",55,0.1611271463
+2021,"arm","Armenia","as","Asia",72,-0.2471878772
+2021,"aze","Azerbaijan","as","Asia",82,-0.4469643777
+2021,"bgd","Bangladesh","as","Asia",105,-0.9254013849
+2021,"chn","China","as","Asia",24,1.1031542712
+2021,"geo","Georgia","as","Asia",63,-0.0098360673
+2021,"hkg","Hong Kong","as","Asia",26,1.0771927217
+2021,"idn","Indonesia","as","Asia",58,0.0742399513
+2021,"ind","India","as","Asia",42,0.5777185432
+2021,"irn","Iran","as","Asia",57,0.0824475439
+2021,"irq","Iraq","as","Asia",107,-1.0128891805
+2021,"isr","Israel","as","Asia",18,1.2479745636
+2021,"jor","Jordan","as","Asia",62,0.0003955844
+2021,"jpn","Japan","as","Asia",1,2.1254837229
+2021,"kaz","Kazakhstan","as","Asia",75,-0.3208032798
+2021,"kgz","Kyrgyzstan","as","Asia",68,-0.1215489865
+2021,"khm","Cambodia","as","Asia",95,-0.7192989836
+2021,"kor","South Korea","as","Asia",4,1.8695568033
+2021,"kwt","Kuwait","as","Asia",52,0.2404923616
+2021,"lao","Laos","as","Asia",94,-0.7104722017
+2021,"lbn","Lebanon","as","Asia",48,0.3488999806
+2021,"lka","Sri Lanka","as","Asia",79,-0.3877631009
+2021,"mmr","Burma","as","Asia",104,-0.9240682187
+2021,"mng","Mongolia","as","Asia",111,-1.0569012858
+2021,"mys","Malaysia","as","Asia",28,1.0701686899
+2021,"omn","Oman","as","Asia",70,-0.2063737676
+2021,"pak","Pakistan","as","Asia",86,-0.6167070088
+2021,"phl","Philippines","as","Asia",36,0.769368752
+2021,"qat","Qatar","as","Asia",73,-0.2718223508
+2021,"sau","Saudi Arabia","as","Asia",31,0.8592913717
+2021,"sgp","Singapore","as","Asia",6,1.6608983343
+2021,"tha","Thailand","as","Asia",29,0.9628665693
+2021,"tjk","Tajikistan","as","Asia",91,-0.6820448567
+2021,"tkm","Turkmenistan","as","Asia",90,-0.6678058272
+2021,"tur","Turkey","as","Asia",41,0.5904650084
+2021,"twn","Chinese Taipei","as","Asia",2,2.0313399903
+2021,"uzb","Uzbekistan","as","Asia",80,-0.4076296844
+2021,"vnm","Vietnam","as","Asia",59,0.0505309946
+2021,"yem","Yemen","as","Asia",118,-1.1765340361
+2021,"alb","Albania","eu","Europe",69,-0.1946731489
+2021,"aut","Austria","eu","Europe",9,1.5508564608
+2021,"bel","Belgium","eu","Europe",20,1.2282824132
+2021,"bgr","Bulgaria","eu","Europe",38,0.6543258613
+2021,"bih","Bosnia and Herzegovina","eu","Europe",39,0.6416389346
+2021,"blr","Belarus","eu","Europe",34,0.8010375849
+2021,"che","Switzerland","eu","Europe",3,1.9707259478
+2021,"cze","Czechia","eu","Europe",7,1.6449643427
+2021,"deu","Germany","eu","Europe",5,1.8540085921
+2021,"dnk","Denmark","eu","Europe",22,1.1169761191
+2021,"esp","Spain","eu","Europe",32,0.8473945601
+2021,"fin","Finland","eu","Europe",13,1.4554548001
+2021,"fra","France","eu","Europe",16,1.3710015693
+2021,"gbr","United Kingdom","eu","Europe",11,1.4853745114
+2021,"grc","Greece","eu","Europe",47,0.3524421593
+2021,"hrv","Croatia","eu","Europe",35,0.785518511
+2021,"hun","Hungary","eu","Europe",14,1.4427480361
+2021,"irl","Ireland","eu","Europe",19,1.2359953424
+2021,"ita","Italy","eu","Europe",17,1.3200439958
+2021,"ltu","Lithuania","eu","Europe",33,0.8039155404
+2021,"mda","Moldova","eu","Europe",66,-0.0862638294
+2021,"nld","Netherlands","eu","Europe",25,1.0785432732
+2021,"nor","Norway","eu","Europe",40,0.6409615822
+2021,"pol","Poland","eu","Europe",23,1.1125442833
+2021,"prt","Portugal","eu","Europe",43,0.5473172913
+2021,"rou","Romania","eu","Europe",27,1.0754760855
+2021,"rus","Russia","eu","Europe",45,0.4180153127
+2021,"srb","Serbia","eu","Europe",37,0.7556049844
+2021,"svk","Slovakia","eu","Europe",15,1.3966438366
+2021,"svn","Slovenia","eu","Europe",10,1.5235572812
+2021,"swe","Sweden","eu","Europe",8,1.6038552019
+2021,"ukr","Ukraine","eu","Europe",44,0.5032914657
+2021,"can","Canada","na","North America",30,0.8893770731
+2021,"cri","Costa Rica","na","North America",49,0.3089290943
+2021,"cub","Cuba","na","North America",76,-0.3456610691
+2021,"dom","Dominican Republic","na","North America",65,-0.0309517842
+2021,"gtm","Guatemala","na","North America",74,-0.3152938682
+2021,"hnd","Honduras","na","North America",85,-0.5897870899
+2021,"mex","Mexico","na","North America",21,1.1238817484
+2021,"nic","Nicaragua","na","North America",110,-1.0447777128
+2021,"pan","Panama","na","North America",51,0.2447835519
+2021,"slv","El Salvador","na","North America",64,-0.0269756435
+2021,"usa","United States","na","North America",12,1.4826435047
+2021,"aus","Australia","oc","Oceania",77,-0.3573472468
+2021,"nzl","New Zealand","oc","Oceania",46,0.405305173
+2021,"png","Papua New Guinea","oc","Oceania",125,-1.4467181543
+2021,"arg","Argentina","sa","South America",61,0.0408643475
+2021,"bol","Bolivia","sa","South America",103,-0.9219690471
+2021,"bra","Brazil","sa","South America",50,0.2556593155
+2021,"chl","Chile","sa","South America",71,-0.2111016708
+2021,"col","Colombia","sa","South America",54,0.185293618
+2021,"ecu","Ecuador","sa","South America",102,-0.889574372
+2021,"per","Peru","sa","South America",88,-0.6587459276
+2021,"pry","Paraguay","sa","South America",81,-0.4090537273
+2021,"ury","Uruguay","sa","South America",56,0.0837354466
+2021,"ven","Venezuela","sa","South America",114,-1.082727978
+2022,"ago","Angola","af","Africa",125,-1.5387832136
+2022,"ben","Benin","af","Africa",87,-0.5723834549
+2022,"bfa","Burkina Faso","af","Africa",127,-1.6588255186
+2022,"bwa","Botswana","af","Africa",86,-0.5699001461
+2022,"civ","Cote d'Ivoire","af","Africa",112,-1.0082231103
+2022,"cmr","Cameroon","af","Africa",114,-1.0346754658
+2022,"cod","Democratic Republic of the Congo","af","Africa",128,-1.659843307
+2022,"cog","Republic of the Congo","af","Africa",124,-1.4562782584
+2022,"dza","Algeria","af","Africa",96,-0.7574330029
+2022,"egy","Egypt","af","Africa",68,-0.1163713822
+2022,"eth","Ethiopia","af","Africa",94,-0.730911856
+2022,"gab","Gabon","af","Africa",95,-0.7457666681
+2022,"gha","Ghana","af","Africa",115,-1.0996941423
+2022,"gin","Guinea","af","Africa",131,-2.0202020198
+2022,"ken","Kenya","af","Africa",85,-0.5460300779
+2022,"lbr","Liberia","af","Africa",110,-0.9732660783
+2022,"lby","Libya","af","Africa",109,-0.969508071
+2022,"mar","Morocco","af","Africa",79,-0.3877123222
+2022,"mdg","Madagascar","af","Africa",118,-1.1792100391
+2022,"mli","Mali","af","Africa",130,-1.9936947494
+2022,"moz","Mozambique","af","Africa",122,-1.3111493871
+2022,"mrt","Mauritania","af","Africa",121,-1.2730939848
+2022,"nam","Namibia","af","Africa",92,-0.6832935786
+2022,"ner","Niger","af","Africa",88,-0.5958925641
+2022,"nga","Nigeria","af","Africa",126,-1.6584759809
+2022,"sdn","Sudan","af","Africa",120,-1.2282430412
+2022,"sen","Senegal","af","Africa",83,-0.5353922701
+2022,"tcd","Chad","af","Africa",129,-1.8869906476
+2022,"tgo","Togo","af","Africa",108,-0.960438122
+2022,"tun","Tunisia","af","Africa",52,0.1991458457
+2022,"tza","Tanzania","af","Africa",116,-1.1301722206
+2022,"uga","Uganda","af","Africa",93,-0.7157114239
+2022,"zaf","South Africa","af","Africa",58,0.0578611575
+2022,"zmb","Zambia","af","Africa",98,-0.8200210957
+2022,"zwe","Zimbabwe","af","Africa",101,-0.8620664504
+2022,"afg","Afghanistan","as","Asia",117,-1.1497732645
+2022,"are","United Arab Emirates","as","Asia",54,0.1748431006
+2022,"arm","Armenia","as","Asia",67,-0.0703623139
+2022,"aze","Azerbaijan","as","Asia",84,-0.5398497849
+2022,"bgd","Bangladesh","as","Asia",106,-0.9284510617
+2022,"chn","China","as","Asia",22,1.160199397
+2022,"geo","Georgia","as","Asia",61,0.0094918078
+2022,"hkg","Hong Kong","as","Asia",21,1.1610108208
+2022,"idn","Indonesia","as","Asia",62,0.0086691465
+2022,"ind","India","as","Asia",41,0.5863334694
+2022,"irn","Iran","as","Asia",59,0.0471799749
+2022,"irq","Iraq","as","Asia",105,-0.9087982627
+2022,"isr","Israel","as","Asia",18,1.2392224042
+2022,"jor","Jordan","as","Asia",64,-0.0125507738
+2022,"jpn","Japan","as","Asia",1,2.0938223073
+2022,"kaz","Kazakhstan","as","Asia",70,-0.1960438275
+2022,"kgz","Kyrgyzstan","as","Asia",69,-0.1792174932
+2022,"khm","Cambodia","as","Asia",90,-0.6492977942
+2022,"kor","South Korea","as","Asia",4,1.8480889844
+2022,"kwt","Kuwait","as","Asia",51,0.2245417564
+2022,"lao","Laos","as","Asia",97,-0.7985593801
+2022,"lbn","Lebanon","as","Asia",46,0.3892460204
+2022,"lka","Sri Lanka","as","Asia",78,-0.3850521971
+2022,"mmr","Burma","as","Asia",103,-0.9002608683
+2022,"mng","Mongolia","as","Asia",119,-1.2278238322
+2022,"mys","Malaysia","as","Asia",27,1.0617792544
+2022,"omn","Oman","as","Asia",73,-0.2477947814
+2022,"pak","Pakistan","as","Asia",82,-0.5311506979
+2022,"phl","Philippines","as","Asia",37,0.710309475
+2022,"qat","Qatar","as","Asia",71,-0.2107053712
+2022,"sau","Saudi Arabia","as","Asia",33,0.8237880013
+2022,"sgp","Singapore","as","Asia",6,1.6405624815
+2022,"tha","Thailand","as","Asia",30,0.9259293527
+2022,"tjk","Tajikistan","as","Asia",100,-0.8325911052
+2022,"tkm","Turkmenistan","as","Asia",99,-0.8242929073
+2022,"tur","Turkey","as","Asia",40,0.5922007803
+2022,"twn","Chinese Taipei","as","Asia",2,2.0053467523
+2022,"uzb","Uzbekistan","as","Asia",77,-0.3362778934
+2022,"vnm","Vietnam","as","Asia",56,0.0954561372
+2022,"yem","Yemen","as","Asia",113,-1.0181506668
+2022,"alb","Albania","eu","Europe",76,-0.2737404605
+2022,"aut","Austria","eu","Europe",9,1.5468689786
+2022,"bel","Belgium","eu","Europe",20,1.2247192356
+2022,"bgr","Bulgaria","eu","Europe",38,0.6802728737
+2022,"bih","Bosnia and Herzegovina","eu","Europe",39,0.6664463142
+2022,"blr","Belarus","eu","Europe",34,0.8167275777
+2022,"che","Switzerland","eu","Europe",3,1.9887854894
+2022,"cze","Czechia","eu","Europe",7,1.617322703
+2022,"deu","Germany","eu","Europe",5,1.8151475074
+2022,"dnk","Denmark","eu","Europe",23,1.1201189587
+2022,"esp","Spain","eu","Europe",32,0.8353110187
+2022,"fin","Finland","eu","Europe",13,1.4438809545
+2022,"fra","France","eu","Europe",16,1.360790635
+2022,"gbr","United Kingdom","eu","Europe",11,1.4896208192
+2022,"grc","Greece","eu","Europe",49,0.3263067685
+2022,"hrv","Croatia","eu","Europe",35,0.7941557548
+2022,"hun","Hungary","eu","Europe",14,1.4236036547
+2022,"irl","Ireland","eu","Europe",19,1.2299848493
+2022,"ita","Italy","eu","Europe",17,1.2901340705
+2022,"ltu","Lithuania","eu","Europe",31,0.835469487
+2022,"mda","Moldova","eu","Europe",66,-0.065780761
+2022,"nld","Netherlands","eu","Europe",26,1.0724112365
+2022,"nor","Norway","eu","Europe",43,0.5270005375
+2022,"pol","Poland","eu","Europe",24,1.1168363427
+2022,"prt","Portugal","eu","Europe",42,0.5636103909
+2022,"rou","Romania","eu","Europe",28,1.0416413398
+2022,"rus","Russia","eu","Europe",47,0.3664393141
+2022,"srb","Serbia","eu","Europe",36,0.7504124026
+2022,"svk","Slovakia","eu","Europe",15,1.4022024377
+2022,"svn","Slovenia","eu","Europe",10,1.5264517675
+2022,"swe","Sweden","eu","Europe",8,1.5646681187
+2022,"ukr","Ukraine","eu","Europe",44,0.500161018
+2022,"can","Canada","na","North America",29,0.9287454552
+2022,"cri","Costa Rica","na","North America",48,0.3402146052
+2022,"cub","Cuba","na","North America",81,-0.4171776761
+2022,"dom","Dominican Republic","na","North America",60,0.0359230138
+2022,"gtm","Guatemala","na","North America",74,-0.2640390456
+2022,"hnd","Honduras","na","North America",89,-0.6039903387
+2022,"mex","Mexico","na","North America",25,1.0879303822
+2022,"nic","Nicaragua","na","North America",111,-0.9917430792
+2022,"pan","Panama","na","North America",55,0.1256723468
+2022,"slv","El Salvador","na","North America",65,-0.014043631
+2022,"usa","United States","na","North America",12,1.4890365662
+2022,"aus","Australia","oc","Oceania",75,-0.2725136803
+2022,"nzl","New Zealand","oc","Oceania",45,0.4266061337
+2022,"png","Papua New Guinea","oc","Oceania",123,-1.4472933442
+2022,"arg","Argentina","sa","South America",63,-0.0077354273
+2022,"bol","Bolivia","sa","South America",102,-0.8824425411
+2022,"bra","Brazil","sa","South America",50,0.2753923028
+2022,"chl","Chile","sa","South America",72,-0.231196426
+2022,"col","Colombia","sa","South America",53,0.1971189589
+2022,"ecu","Ecuador","sa","South America",107,-0.9335548959
+2022,"per","Peru","sa","South America",91,-0.6533343953
+2022,"pry","Paraguay","sa","South America",80,-0.3908608466
+2022,"ury","Uruguay","sa","South America",57,0.0839001354
+2022,"ven","Venezuela","sa","South America",104,-0.9069664069
+2023,"ago","Angola","af","Africa",120,-1.2196165072
+2023,"ben","Benin","af","Africa",83,-0.4544288168
+2023,"bfa","Burkina Faso","af","Africa",126,-1.4125792941
+2023,"bwa","Botswana","af","Africa",87,-0.5288429555
+2023,"civ","Cote d'Ivoire","af","Africa",114,-1.0385526427
+2023,"cmr","Cameroon","af","Africa",119,-1.1864996362
+2023,"cod","Democratic Republic of the Congo","af","Africa",130,-1.9674719393
+2023,"cog","Republic of the Congo","af","Africa",128,-1.6341883078
+2023,"dza","Algeria","af","Africa",99,-0.787434168
+2023,"egy","Egypt","af","Africa",66,-0.115656104
+2023,"eth","Ethiopia","af","Africa",102,-0.8438011651
+2023,"gab","Gabon","af","Africa",91,-0.5938321887
+2023,"gha","Ghana","af","Africa",111,-0.9562053856
+2023,"gin","Guinea","af","Africa",131,-2.1600077939
+2023,"ken","Kenya","af","Africa",84,-0.4833354116
+2023,"lbr","Liberia","af","Africa",124,-1.3026692206
+2023,"lby","Libya","af","Africa",108,-0.9169042356
+2023,"mar","Morocco","af","Africa",79,-0.3406666347
+2023,"mdg","Madagascar","af","Africa",117,-1.1531503932
+2023,"mli","Mali","af","Africa",125,-1.3842703273
+2023,"moz","Mozambique","af","Africa",123,-1.2955866958
+2023,"mrt","Mauritania","af","Africa",115,-1.1104954713
+2023,"nam","Namibia","af","Africa",96,-0.7128780942
+2023,"ner","Niger","af","Africa",90,-0.5762755916
+2023,"nga","Nigeria","af","Africa",129,-1.7484226268
+2023,"sdn","Sudan","af","Africa",121,-1.266027316
+2023,"sen","Senegal","af","Africa",86,-0.5118425455
+2023,"tcd","Chad","af","Africa",132,-2.4399587476
+2023,"tgo","Togo","af","Africa",105,-0.8752478238
+2023,"tun","Tunisia","af","Africa",55,0.1558108042
+2023,"tza","Tanzania","af","Africa",116,-1.1207377922
+2023,"uga","Uganda","af","Africa",93,-0.6415647397
+2023,"zaf","South Africa","af","Africa",61,0.0221564796
+2023,"zmb","Zambia","af","Africa",95,-0.7065794754
+2023,"zwe","Zimbabwe","af","Africa",109,-0.9515553033
+2023,"afg","Afghanistan","as","Asia",118,-1.1849165472
+2023,"are","United Arab Emirates","as","Asia",54,0.171531856
+2023,"arm","Armenia","as","Asia",58,0.0766336746
+2023,"aze","Azerbaijan","as","Asia",81,-0.4158250224
+2023,"bgd","Bangladesh","as","Asia",113,-1.0123088977
+2023,"chn","China","as","Asia",21,1.1717689759
+2023,"geo","Georgia","as","Asia",57,0.0826256454
+2023,"hkg","Hong Kong","as","Asia",22,1.151741456
+2023,"idn","Indonesia","as","Asia",64,-0.0198368491
+2023,"ind","India","as","Asia",40,0.6283586509
+2023,"irn","Iran","as","Asia",59,0.0592205322
+2023,"irq","Iraq","as","Asia",98,-0.7437847782
+2023,"isr","Israel","as","Asia",18,1.2972941073
+2023,"jor","Jordan","as","Asia",65,-0.0446586273
+2023,"jpn","Japan","as","Asia",1,2.1063190639
+2023,"kaz","Kazakhstan","as","Asia",72,-0.2028409367
+2023,"kgz","Kyrgyzstan","as","Asia",69,-0.1494330158
+2023,"khm","Cambodia","as","Asia",94,-0.6514398608
+2023,"kor","South Korea","as","Asia",4,1.8894451072
+2023,"kwt","Kuwait","as","Asia",52,0.1887468969
+2023,"lao","Laos","as","Asia",101,-0.8201310258
+2023,"lbn","Lebanon","as","Asia",45,0.4013959519
+2023,"lka","Sri Lanka","as","Asia",80,-0.408627274
+2023,"mmr","Burma","as","Asia",107,-0.9051885033
+2023,"mng","Mongolia","as","Asia",122,-1.2809564669
+2023,"mys","Malaysia","as","Asia",24,1.0864723209
+2023,"omn","Oman","as","Asia",75,-0.2833539515
+2023,"pak","Pakistan","as","Asia",89,-0.5442148489
+2023,"phl","Philippines","as","Asia",37,0.6870513977
+2023,"qat","Qatar","as","Asia",77,-0.3177269608
+2023,"sau","Saudi Arabia","as","Asia",36,0.7534720796
+2023,"sgp","Singapore","as","Asia",6,1.696305031
+2023,"tha","Thailand","as","Asia",29,0.9512427072
+2023,"tjk","Tajikistan","as","Asia",106,-0.9043632402
+2023,"tkm","Turkmenistan","as","Asia",97,-0.7282891234
+2023,"tur","Turkey","as","Asia",41,0.595913967
+2023,"twn","Chinese Taipei","as","Asia",2,2.012509254
+2023,"uzb","Uzbekistan","as","Asia",74,-0.2507891676
+2023,"vnm","Vietnam","as","Asia",56,0.1075236472
+2023,"yem","Yemen","as","Asia",112,-1.0056940136
+2023,"alb","Albania","eu","Europe",78,-0.3298867853
+2023,"aut","Austria","eu","Europe",8,1.5562388176
+2023,"bel","Belgium","eu","Europe",20,1.2193604198
+2023,"bgr","Bulgaria","eu","Europe",39,0.6819196177
+2023,"bih","Bosnia and Herzegovina","eu","Europe",38,0.6826622181
+2023,"blr","Belarus","eu","Europe",33,0.7825837788
+2023,"che","Switzerland","eu","Europe",3,1.9868387808
+2023,"cze","Czechia","eu","Europe",7,1.5988432397
+2023,"deu","Germany","eu","Europe",5,1.797827858
+2023,"dnk","Denmark","eu","Europe",23,1.1212614451
+2023,"esp","Spain","eu","Europe",31,0.87133113
+2023,"fin","Finland","eu","Europe",13,1.455966219
+2023,"fra","France","eu","Europe",16,1.3322895557
+2023,"gbr","United Kingdom","eu","Europe",10,1.5107008689
+2023,"grc","Greece","eu","Europe",47,0.3814028876
+2023,"hrv","Croatia","eu","Europe",34,0.772785963
+2023,"hun","Hungary","eu","Europe",14,1.389663628
+2023,"irl","Ireland","eu","Europe",17,1.3057617747
+2023,"ita","Italy","eu","Europe",19,1.2838115184
+2023,"ltu","Lithuania","eu","Europe",32,0.8178948098
+2023,"mda","Moldova","eu","Europe",68,-0.1453564488
+2023,"nld","Netherlands","eu","Europe",27,1.0654660756
+2023,"nor","Norway","eu","Europe",44,0.4501087616
+2023,"pol","Poland","eu","Europe",26,1.0762594137
+2023,"prt","Portugal","eu","Europe",42,0.5699510035
+2023,"rou","Romania","eu","Europe",28,1.0208384075
+2023,"rus","Russia","eu","Europe",49,0.2934967723
+2023,"srb","Serbia","eu","Europe",35,0.7671845389
+2023,"svk","Slovakia","eu","Europe",15,1.349115329
+2023,"svn","Slovenia","eu","Europe",12,1.4856006294
+2023,"swe","Sweden","eu","Europe",9,1.5412967822
+2023,"ukr","Ukraine","eu","Europe",46,0.3993150061
+2023,"can","Canada","na","North America",30,0.9037729003
+2023,"cri","Costa Rica","na","North America",48,0.3482049829
+2023,"cub","Cuba","na","North America",85,-0.4986753504
+2023,"dom","Dominican Republic","na","North America",60,0.0477664113
+2023,"gtm","Guatemala","na","North America",71,-0.1997633707
+2023,"hnd","Honduras","na","North America",88,-0.5308155843
+2023,"jam","Jamaica","na","North America",70,-0.1554631824
+2023,"mex","Mexico","na","North America",25,1.0852870776
+2023,"nic","Nicaragua","na","North America",110,-0.9539922938
+2023,"pan","Panama","na","North America",67,-0.1412041811
+2023,"slv","El Salvador","na","North America",62,0.0109616446
+2023,"usa","United States","na","North America",11,1.5017817955
+2023,"aus","Australia","oc","Oceania",76,-0.2892143602
+2023,"nzl","New Zealand","oc","Oceania",43,0.4632420619
+2023,"png","Papua New Guinea","oc","Oceania",127,-1.5406462584
+2023,"arg","Argentina","sa","South America",63,-0.010957367
+2023,"bol","Bolivia","sa","South America",103,-0.8522282578
+2023,"bra","Brazil","sa","South America",50,0.2914800502
+2023,"chl","Chile","sa","South America",73,-0.2333074445
+2023,"col","Colombia","sa","South America",51,0.2312558181
+2023,"ecu","Ecuador","sa","South America",100,-0.815675041
+2023,"per","Peru","sa","South America",92,-0.6140301963
+2023,"pry","Paraguay","sa","South America",82,-0.4272074808
+2023,"ury","Uruguay","sa","South America",53,0.1756720407
+2023,"ven","Venezuela","sa","South America",104,-0.8706535742
