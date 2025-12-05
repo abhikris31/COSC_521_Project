@@ -1,21 +1,48 @@
 #Creating 
 library(readxl)
+# --- Define the base data directory (must exist in your GitHub repo root) ---
+data_dir <- "data" 
+# Assuming structure: your-repo-root/data/bipartite-dataframes/...
 
-# Read the files for IP
-df_ip_cp <- read_excel("/kaggle/input/bipartite-dataframes/Industrial Policy data_Country_Policy.xlsx")
+# Define the subdirectory path for clarity
+bipartite_subdir <- "bipartite-dataframes"
 
-df_ip_pp <- read_excel("/kaggle/input/bipartite-dataframes/Industrial Policy data_Policy_Product.xlsx")
+# ----------------------------------------------------------------------
+# Read files for Industrial Policy (IP)
+# ----------------------------------------------------------------------
+# IP Country-Policy data
+df_ip_cp <- read_excel(file.path(data_dir, 
+                                 bipartite_subdir, 
+                                 "Industrial Policy data_Country_Policy.xlsx"))
 
-df_ip_cpr <- read_excel("/kaggle/input/bipartite-dataframes/Industrial Policy data_Country_Product.xlsx")
+# IP Policy-Product data
+df_ip_pp <- read_excel(file.path(data_dir, 
+                                 bipartite_subdir, 
+                                 "Industrial Policy data_Policy_Product.xlsx"))
 
-#Read files for non IP
+# IP Country-Product data
+df_ip_cpr <- read_excel(file.path(data_dir, 
+                                  bipartite_subdir, 
+                                  "Industrial Policy data_Country_Product.xlsx"))
 
-df_nonip_cp <- read_excel("/kaggle/input/bipartite-dataframes/Non Industrial Policy data_Country_Policy.xlsx")
 
-df_nonip_pp <- read_excel("/kaggle/input/bipartite-dataframes/Non Industrial Policy data_Policy_Product.xlsx")
+# ----------------------------------------------------------------------
+# Read files for Non-Industrial Policy (Non-IP)
+# ----------------------------------------------------------------------
+# Non-IP Country-Policy data
+df_nonip_cp <- read_excel(file.path(data_dir, 
+                                    bipartite_subdir, 
+                                    "Non Industrial Policy data_Country_Policy.xlsx"))
 
-df_nonip_cpr <- read_excel("/kaggle/input/bipartite-dataframes/Non Industrial Policy data_Country_Product.xlsx")
+# Non-IP Policy-Product data
+df_nonip_pp <- read_excel(file.path(data_dir, 
+                                    bipartite_subdir, 
+                                    "Non Industrial Policy data_Policy_Product.xlsx"))
 
+# Non-IP Country-Product data
+df_nonip_cpr <- read_excel(file.path(data_dir, 
+                                     bipartite_subdir, 
+                                     "Non Industrial Policy data_Country_Product.xlsx"))
 head(df_ip_pp)
 
 # Replace "NAN" or "nan" in df_ip_cp
@@ -51,7 +78,19 @@ sum(is.na(df_ip_cpr))
 # Defining Node Attributes
 
 #Reading Attribute Files
+data_dir <- "data" 
+# Assuming structure: your-repo-root/data/bipartite-dataframes/...
 
+# Define the subdirectory path for clarity
+complexity_subdir <- "complexity-files"
+
+df_eci <- read_excel(file.path(data_dir, 
+                                 complexity_subdir, 
+                                 "df_eci.xlsx"))
+
+df_pci <- read_excel(file.path(data_dir, 
+                                 complexity_subdir, 
+                                 "df_pci.xlsx"))
 
 library(igraph)
 
