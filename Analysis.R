@@ -317,7 +317,7 @@ r <- cor(deg_c, V(g_ip_cp)[type == FALSE]$eci)
 
 dev.off()
 
-#Analysis for Objective 2
+#Analysis for Objective 2 and 3
 # Defining Node Attributes
 
 library(igraph)
